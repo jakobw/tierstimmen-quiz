@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TierstimmenQuiz</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+
+<header class="head">
+  <div class="container">
+    <h1>TierstimmenQuiz <small>Welches Tier ist es?</small></h1>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h3><span id="question-num">0</span>/10</h3>
+      <div id="answers" class="clearfix row">
+
+      </div>
+      <button id="play-again" class="btn btn-primary"><span class="glyphicon glyphicon-volume-up"></span>Erneut abspielen</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <h3>Highscores</h3>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="next-question">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="answer-correct"></h4>
+      </div>
+      <div class="modal-body">
+        <p>blabla, Tier-Infos...</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" id="next-question">N&auml;chste Frage</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script id="animal-template" type="text/template">
+  <div class="animal col-md-6" id="animal-<%= cid %>">
+    <div class="image">
+      <img class="img-rounded" src="<%= image %>">
+    </div>
+    <div class="name">
+      <h4><%= name %></h4>
+    </div>
+  </div>
+</script>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/underscore-min.js"></script>
+<script type="text/javascript" src="js/backbone-min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/quiz.js"></script>
+</body>
+</html>
