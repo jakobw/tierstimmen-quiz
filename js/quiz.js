@@ -65,11 +65,15 @@
   });
 
   var AnswerView = Backbone.View.extend({
-    id: 'next-question',
-    el: '#next-question',
+    el: '.next-question',
 
     render: function (correct) {
-      $('#answer-correct').text(correct ? "Richtig" : "Falsch")
+      var el = _.template($('#answer-template').html(), {
+        title: correct ? "Richtig" : "Falsch"
+      });
+      $('body').append(el);
+
+      this.setElement(el);
       this.$el.modal();
     },
 

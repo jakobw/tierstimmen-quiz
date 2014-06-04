@@ -30,22 +30,23 @@
   </div>
 </div>
 
-<div class="modal fade" id="next-question">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title" id="answer-correct"></h4>
-      </div>
-      <div class="modal-body">
-        <p>blabla, Tier-Infos...</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary" id="next-question">N&auml;chste Frage</button>
+<script id="answer-template" type="text/template">
+  <div class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title"><%= title %></h4>
+        </div>
+        <div class="modal-body">
+          <p>blabla, Tier-Infos...</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>
+        </div>
       </div>
     </div>
   </div>
-</div>
+</script>
 
 <script id="animal-template" type="text/template">
   <div class="animal col-md-6" id="animal-<%= cid %>">
