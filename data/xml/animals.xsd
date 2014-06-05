@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="Animals">
+	<xs:complexType>
+	<xs:sequence>
+		<xs:element name="Animal" maxOccurs="unbounded">
+			<xs:complexType>
+				<xs:sequence>
+      				<xs:element name="Id" type="xs:integer"/>
+      				<xs:element name="ScientificName" type="xs:string"/>
+      				<xs:element name="ScientificType" type="xs:string"/>
+      				<xs:element name="GermanName" type="xs:string"/>
+      				<xs:element name="GermanType" type="xs:string"/>
+      				<xs:element name="SoundFile" type="xs:string"/>
+      				<xs:element name="PictureFile" type="xs:string" default="We are sorry... we couldn't find a picture for this animal."/>
+      				<xs:element name="WikipediaText" type="xs:string" default="We are sorry... we couldn't find any information for this animal."/>
+    			</xs:sequence>
+  			</xs:complexType>
+		</xs:element>
+	</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>
