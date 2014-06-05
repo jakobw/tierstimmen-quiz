@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animals>
+	<Animal>
+		<Id>1</Id>
+		<ScientificName>Accipiter gentilis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Habicht</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Accipiter gentilis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>2</Id>
+		<ScientificName>Accipiter nisus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sperber</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Accipiter nisus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>3</Id>
+		<ScientificName>Acrocephalus arundinaceus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Drosselrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus arundinaceus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>4</Id>
+		<ScientificName>Acrocephalus dumetorum</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Buschrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus dumetorum.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>5</Id>
+		<ScientificName>Acrocephalus paludicola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Seggenrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus paludicola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>6</Id>
+		<ScientificName>Acrocephalus palustris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sumpfrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus palustris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>7</Id>
+		<ScientificName>Acrocephalus schoenobaenus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schilfrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus schoenobaenus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>8</Id>
+		<ScientificName>Acrocephalus scirpaceus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Teichrohrsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Acrocephalus scirpaceus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>9</Id>
+		<ScientificName>Actitis hypoleucos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Flußuferläufer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Actitis hypoleucos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>10</Id>
+		<ScientificName>Aegithalos caudatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schwanzmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aegithalos caudatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>11</Id>
+		<ScientificName>Aegolius funereus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rauhfußkauz</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Aegolius funereus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>12</Id>
+		<ScientificName>Aix galericulata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mandarinente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aix galericulata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>13</Id>
+		<ScientificName>Alauda arvensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Feldlerche</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Alauda arvensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>14</Id>
+		<ScientificName>Alcedo atthis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Eisvogel</GermanName>
+		<GermanType>Vögel - Rackenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Alcedo atthis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>15</Id>
+		<ScientificName>Alectoris graeca</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinhuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Alectoris graeca.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>16</Id>
+		<ScientificName>Alytes obstetricans</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Geburtshelferkröte</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Alytes obstetricans.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>17</Id>
+		<ScientificName>Anas acuta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Spießente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas acuta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>18</Id>
+		<ScientificName>Anas clypeata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Löffelente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas clypeata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>19</Id>
+		<ScientificName>Anas crecca</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Krickente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas crecca.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>20</Id>
+		<ScientificName>Anas penelope</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Pfeifente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas penelope.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>21</Id>
+		<ScientificName>Anas platyrhynchos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Stockente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas platyrhynchos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>22</Id>
+		<ScientificName>Anas querquedula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Knäkente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas querquedula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>23</Id>
+		<ScientificName>Anas strepera</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schnatterente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anas strepera.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>24</Id>
+		<ScientificName>Anser albifrons</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bläßgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anser albifrons.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>25</Id>
+		<ScientificName>Anser anser</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Graugans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anser anser.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>26</Id>
+		<ScientificName>Anser brachyrhynchus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kurzschnabelgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anser brachyrhynchus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>27</Id>
+		<ScientificName>Anser erythropus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwerggans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anser erythropus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>28</Id>
+		<ScientificName>Anser fabalis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Saatgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anser fabalis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>29</Id>
+		<ScientificName>Anthus campestris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Brachpieper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anthus campestris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>30</Id>
+		<ScientificName>Anthus godlewskii</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steppenpieper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anthus godlewskii.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>31</Id>
+		<ScientificName>Anthus pratensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wiesenpieper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anthus pratensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>32</Id>
+		<ScientificName>Anthus spinoletta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bergpieper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anthus spinoletta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>33</Id>
+		<ScientificName>Anthus trivialis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Baumpieper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Anthus trivialis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>34</Id>
+		<ScientificName>Apus apus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mauersegler</GermanName>
+		<GermanType>Vögel - Seglervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Apus apus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>35</Id>
+		<ScientificName>Aquila chrysaetos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinadler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aquila chrysaetos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>36</Id>
+		<ScientificName>Aquila clanga</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schelladler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aquila clanga.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>37</Id>
+		<ScientificName>Aquila heliaca</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kaiseradler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aquila heliaca.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>38</Id>
+		<ScientificName>Aquila nipalensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steppenadler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aquila nipalensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>39</Id>
+		<ScientificName>Aquila pomarina</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schreiadler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aquila pomarina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>40</Id>
+		<ScientificName>Ardea cinerea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Graureiher</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ardea cinerea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>41</Id>
+		<ScientificName>Arenaria interpres</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinwälzer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Arenaria interpres.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>42</Id>
+		<ScientificName>Asio otus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldohreule</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Asio otus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>43</Id>
+		<ScientificName>Athene noctua</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinkauz</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Athene noctua.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>44</Id>
+		<ScientificName>Aythya ferina</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Tafelente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aythya ferina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>45</Id>
+		<ScientificName>Aythya fuligula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Reiherente</GermanName>
+		<GermanType>Vögel - Entenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Aythya fuligula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>46</Id>
+		<ScientificName>Bombina bombina</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Rotbauchunke</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Bombina bombina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>47</Id>
+		<ScientificName>Bombina variegata</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Gelbbauchunke</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Bombina variegata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>48</Id>
+		<ScientificName>Bombycilla garrulus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Seidenschwanz</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Bombycilla garrulus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>49</Id>
+		<ScientificName>Botaurus stellaris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rohrdommel</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Botaurus stellaris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>50</Id>
+		<ScientificName>Branta bernicla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ringelgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Branta bernicla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>51</Id>
+		<ScientificName>Branta canadensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kanadagans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Branta canadensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>52</Id>
+		<ScientificName>Branta leucopsis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißwangengans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Branta leucopsis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>53</Id>
+		<ScientificName>Branta ruficollis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rothalsgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Branta ruficollis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>54</Id>
+		<ScientificName>Bubo bubo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Uhu</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Bubo bubo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>55</Id>
+		<ScientificName>Bubo scandiacus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schnee-Eule</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Bubo scandiacus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>56</Id>
+		<ScientificName>Bubulcus ibis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kuhreiher</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Bubulcus ibis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>57</Id>
+		<ScientificName>Bucephala clangula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schellente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Bucephala clangula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>58</Id>
+		<ScientificName>Bufo bufo</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Erdkröte</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Bufo bufo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>59</Id>
+		<ScientificName>Bufo calamita</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Kreuzkröte</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Bufo calamita.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>60</Id>
+		<ScientificName>Bufo viridis</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Wechselkröte</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Bufo viridis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>61</Id>
+		<ScientificName>Burhinus oedicnemus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Triel</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Burhinus oedicnemus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>62</Id>
+		<ScientificName>Buteo buteo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mäusebussard</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Buteo buteo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>63</Id>
+		<ScientificName>Buteo rufinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Adlerbussard</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Buteo rufinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>64</Id>
+		<ScientificName>Calandrella brachydactyla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kurzzehenlerche</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Calandrella brachydactyla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>65</Id>
+		<ScientificName>Calcarius lapponicus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Spornammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Calcarius lapponicus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>66</Id>
+		<ScientificName>Calidris canutus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Knutt</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Calidris canutus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>67</Id>
+		<ScientificName>Canis lupus</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Eurasischer Wolf</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Canis lupus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>68</Id>
+		<ScientificName>Capreolus capreolus</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Europäisches Reh</GermanName>
+		<GermanType>Säugetiere - Paarhufer</GermanType>
+		<SoundFile>anyurl.com/sounds/Capreolus capreolus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>69</Id>
+		<ScientificName>Caprimulgus europaeus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ziegenmelker</GermanName>
+		<GermanType>Vögel - Schwalmartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Caprimulgus europaeus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>70</Id>
+		<ScientificName>Carduelis cannabina</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bluthänfling</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis cannabina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>71</Id>
+		<ScientificName>Carduelis carduelis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Stieglitz</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis carduelis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>72</Id>
+		<ScientificName>Carduelis citrinella</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zitronenzeisig</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis citrinella.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>73</Id>
+		<ScientificName>Carduelis flammea cabaret</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Birkenzeisig</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis flammea cabaret.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>74</Id>
+		<ScientificName>Carduelis flavirostris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Berghänfling</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis flavirostris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>75</Id>
+		<ScientificName>Carduelis spinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Erlenzeisig</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carduelis spinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>76</Id>
+		<ScientificName>Carpodacus erythrinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Karmingimpel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Carpodacus erythrinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>77</Id>
+		<ScientificName>Certhia brachydactyla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gartenbaumläufer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Certhia brachydactyla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>78</Id>
+		<ScientificName>Certhia familiaris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldbaumläufer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Certhia familiaris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>79</Id>
+		<ScientificName>Cervus elaphus</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Rothirsch</GermanName>
+		<GermanType>Säugetiere - Paarhufer</GermanType>
+		<SoundFile>anyurl.com/sounds/Cervus elaphus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>80</Id>
+		<ScientificName>Charadrius dubius</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Flussregenpfeifer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Charadrius dubius.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>81</Id>
+		<ScientificName>Charadrius hiaticula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sandregenpfeifer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Charadrius hiaticula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>82</Id>
+		<ScientificName>Charadrius morinellus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mornellregenpfeifer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Charadrius morinellus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>83</Id>
+		<ScientificName>Chlidonias hybrida</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißbart-Seeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Chlidonias hybrida.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>84</Id>
+		<ScientificName>Chlidonias leucopterus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißflügel-Seeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Chlidonias leucopterus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>85</Id>
+		<ScientificName>Chlidonias niger</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Trauerseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Chlidonias niger.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>86</Id>
+		<ScientificName>Chloris chloris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grünfink</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Chloris chloris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>87</Id>
+		<ScientificName>Chroicocephalus ridibundus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Lachmöwe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Chroicocephalus ridibundus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>88</Id>
+		<ScientificName>Ciconia ciconia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißstorch</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ciconia ciconia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>89</Id>
+		<ScientificName>Cinclus cinclus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wasseramsel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Cinclus cinclus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>90</Id>
+		<ScientificName>Circaetus gallicus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schlangenadler</GermanName>
+		<GermanType>Vögel - Habichtartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Circaetus gallicus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>91</Id>
+		<ScientificName>Circus aeruginosus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rohrweihe</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Circus aeruginosus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>92</Id>
+		<ScientificName>Coccothraustes coccothraustes</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kernbeißer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Coccothraustes coccothraustes.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>93</Id>
+		<ScientificName>Columba livia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Felsentaube</GermanName>
+		<GermanType>Vögel - Taubenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Columba livia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>94</Id>
+		<ScientificName>Columba oenas</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Hohltaube</GermanName>
+		<GermanType>Vögel - Taubenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Columba oenas.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>95</Id>
+		<ScientificName>Columba palumbus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ringeltaube</GermanName>
+		<GermanType>Vögel - Taubenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Columba palumbus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>96</Id>
+		<ScientificName>Corvus corax</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kolkrabe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Corvus corax.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>97</Id>
+		<ScientificName>Corvus cornix</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Nebelkrähe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Corvus cornix.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>98</Id>
+		<ScientificName>Corvus corone</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rabenkrähe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Corvus corone.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>99</Id>
+		<ScientificName>Corvus frugilegus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Saatkrähe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Corvus frugilegus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>100</Id>
+		<ScientificName>Corvus monedula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Dohle</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Corvus monedula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>101</Id>
+		<ScientificName>Coturnix coturnix</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wachtel</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Coturnix coturnix.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>102</Id>
+		<ScientificName>Crex crex</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wachtelkönig</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Crex crex.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>103</Id>
+		<ScientificName>Cuculus canorus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kuckuck</GermanName>
+		<GermanType>Vögel - Kuckucksvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Cuculus canorus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>104</Id>
+		<ScientificName>Cyanistes caeruleus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Blaumeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Cyanistes caeruleus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>105</Id>
+		<ScientificName>Cygnus cygnus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Singschwan</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Cygnus cygnus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>106</Id>
+		<ScientificName>Cygnus olor</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Höckerschwan</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Cygnus olor.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>107</Id>
+		<ScientificName>Dama dama</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Damhirsch</GermanName>
+		<GermanType>Säugetiere - Paarhufer</GermanType>
+		<SoundFile>anyurl.com/sounds/Dama dama.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>108</Id>
+		<ScientificName>Delichon urbicum</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mehlschwalbe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Delichon urbicum.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>109</Id>
+		<ScientificName>Dendrocopos leucotos oder Picoides leucotos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißrückenspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Dendrocopos leucotos oder Picoides leucotos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>110</Id>
+		<ScientificName>Dendrocopos major</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Buntspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Dendrocopos major.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>111</Id>
+		<ScientificName>Dendrocopos medius</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mittelspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Dendrocopos medius.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>112</Id>
+		<ScientificName>Dendrocopos minor</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kleinspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Dendrocopos minor.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>113</Id>
+		<ScientificName>Dryocopus martius</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schwarzspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Dryocopus martius.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>114</Id>
+		<ScientificName>Egretta garzetta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Seidenreiher</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Egretta garzetta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>115</Id>
+		<ScientificName>Emberiza aureola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weidenammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza aureola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>116</Id>
+		<ScientificName>Emberiza calandra</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grauammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza calandra.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>117</Id>
+		<ScientificName>Emberiza cirlus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zaunammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza cirlus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>118</Id>
+		<ScientificName>Emberiza citrinella</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Goldammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza citrinella.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>119</Id>
+		<ScientificName>Emberiza hortulana</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ortolan</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza hortulana.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>120</Id>
+		<ScientificName>Emberiza pusilla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza pusilla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>121</Id>
+		<ScientificName>Emberiza rustica</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza rustica.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>122</Id>
+		<ScientificName>Emberiza schoeniclus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rohrammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza schoeniclus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>123</Id>
+		<ScientificName>Emberiza spodocephala</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Maskenammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Emberiza spodocephala.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>124</Id>
+		<ScientificName>Eremophila alpestris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ohrenlerche</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Eremophila alpestris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>125</Id>
+		<ScientificName>Erinaceus europaeus</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Europäischer Igel</GermanName>
+		<GermanType>Säugetiere - Insektenfresser</GermanType>
+		<SoundFile>anyurl.com/sounds/Erinaceus europaeus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>126</Id>
+		<ScientificName>Erithacus rubecula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rotkehlchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Erithacus rubecula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>127</Id>
+		<ScientificName>Falco cherrug</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Würgfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco cherrug.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>128</Id>
+		<ScientificName>Falco peregrinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wanderfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco peregrinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>129</Id>
+		<ScientificName>Falco rusticolus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gerfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco rusticolus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>130</Id>
+		<ScientificName>Falco subbuteo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Baumfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco subbuteo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>131</Id>
+		<ScientificName>Falco tinnunculus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Turmfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco tinnunculus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>132</Id>
+		<ScientificName>Falco vespertinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rotfußfalke</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Falco vespertinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>133</Id>
+		<ScientificName>Felis silvestris</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Wildkatze</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Felis silvestris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>134</Id>
+		<ScientificName>Ficedula albicollis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Halsbandschnäpper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ficedula albicollis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>135</Id>
+		<ScientificName>Ficedula hypoleuca</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Trauerschnäpper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ficedula hypoleuca.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>136</Id>
+		<ScientificName>Ficedula parva</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergschnäpper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ficedula parva.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>137</Id>
+		<ScientificName>Fringilla coelebs</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Buchfink</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Fringilla coelebs.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>138</Id>
+		<ScientificName>Fringilla montifringilla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bergfink</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Fringilla montifringilla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>139</Id>
+		<ScientificName>Fulica atra</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Blässhuhn</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Fulica atra.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>140</Id>
+		<ScientificName>Fulmarus glacialis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Eissturmvogel</GermanName>
+		<GermanType>Vögel - Röhrennasen</GermanType>
+		<SoundFile>anyurl.com/sounds/Fulmarus glacialis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>141</Id>
+		<ScientificName>Galerida cristata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Haubenlerche</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Galerida cristata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>142</Id>
+		<ScientificName>Gallinago gallinago</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bekassine</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Gallinago gallinago.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>143</Id>
+		<ScientificName>Gallinula chloropus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Teichhuhn</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Gallinula chloropus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>144</Id>
+		<ScientificName>Garrulus glandarius</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Eichelhäher</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Garrulus glandarius.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>145</Id>
+		<ScientificName>Gavia arctica</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Prachttaucher</GermanName>
+		<GermanType>Vögel - Seetaucherartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Gavia arctica.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>146</Id>
+		<ScientificName>Geronticus eremita</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldrapp</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Geronticus eremita.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>147</Id>
+		<ScientificName>Glaucidium passerinum</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sperlingskauz</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Glaucidium passerinum.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>148</Id>
+		<ScientificName>Grus grus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kranich</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Grus grus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>149</Id>
+		<ScientificName>Grus virgo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Jungfernkranich</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Grus virgo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>150</Id>
+		<ScientificName>Gypaetus barbatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bartgeier</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Gypaetus barbatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>151</Id>
+		<ScientificName>Haematopus ostralegus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Austernfischer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Haematopus ostralegus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>152</Id>
+		<ScientificName>Haliaeetus albicilla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Seeadler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Haliaeetus albicilla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>153</Id>
+		<ScientificName>Himantopus himantopus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Stelzenläufer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Himantopus himantopus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>154</Id>
+		<ScientificName>Hippolais icterina</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gelbspötter</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Hippolais icterina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>155</Id>
+		<ScientificName>Hippolais polyglotta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Orpheusspötter</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Hippolais polyglotta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>156</Id>
+		<ScientificName>Hirundo rustica</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rauchschwalbe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Hirundo rustica.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>157</Id>
+		<ScientificName>Hydroprogne caspia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Raubseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Hydroprogne caspia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>158</Id>
+		<ScientificName>Hyla arborea</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Europäischer Laubfrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Hyla arborea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>159</Id>
+		<ScientificName>Ixobrychus minutus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergdommel</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Ixobrychus minutus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>160</Id>
+		<ScientificName>Jynx torquilla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wendehals</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Jynx torquilla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>161</Id>
+		<ScientificName>Lagopus muta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Alpenschneehuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lagopus muta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>162</Id>
+		<ScientificName>Lanius collurio</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Neuntöter</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lanius collurio.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>163</Id>
+		<ScientificName>Lanius excubitor</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Raubwürger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lanius excubitor.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>164</Id>
+		<ScientificName>Larus argentatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Silbermöwe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Larus argentatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>165</Id>
+		<ScientificName>Larus canus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sturmmöwe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Larus canus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>166</Id>
+		<ScientificName>Larus marinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mantelmöwe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Larus marinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>167</Id>
+		<ScientificName>Limosa limosa</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Uferschnepfe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Limosa limosa.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>168</Id>
+		<ScientificName>Locustella fluviatilis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schlagschwirl</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Locustella fluviatilis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>169</Id>
+		<ScientificName>Locustella luscinioides</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rohrschwirl</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Locustella luscinioides.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>170</Id>
+		<ScientificName>Locustella naevia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Feldschwirl</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Locustella naevia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>171</Id>
+		<ScientificName>Lophophanes cristatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Haubenmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lophophanes cristatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>172</Id>
+		<ScientificName>Loxia curvirostra</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Fichtenkreuzschnabel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Loxia curvirostra.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>173</Id>
+		<ScientificName>Loxia pytyopsittacus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kiefernkreuzschnabel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Loxia pytyopsittacus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>174</Id>
+		<ScientificName>Lullula arborea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Heidelerche</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lullula arborea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>175</Id>
+		<ScientificName>Luscinia calliope</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rubinkehlchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Luscinia calliope.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>176</Id>
+		<ScientificName>Luscinia luscinia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sprosser</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Luscinia luscinia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>177</Id>
+		<ScientificName>Luscinia megarhynchos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Nachtigall</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Luscinia megarhynchos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>178</Id>
+		<ScientificName>Luscinia svecica</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Blaukehlchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Luscinia svecica.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>179</Id>
+		<ScientificName>Lynx lynx (lynx)</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Europäischer Luchs</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Lynx lynx (lynx).mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>180</Id>
+		<ScientificName>Lyrurus tetrix</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Birkhuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Lyrurus tetrix.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>181</Id>
+		<ScientificName>Marmota marmota</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Alpenmurmeltier</GermanName>
+		<GermanType>Säugetiere - Nagetiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Marmota marmota.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>182</Id>
+		<ScientificName>Martes foina</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Steinmarder</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Martes foina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>183</Id>
+		<ScientificName>Martes martes</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Baummarder</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Martes martes.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>184</Id>
+		<ScientificName>Mergus serrator</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mittelsäger</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Mergus serrator.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>185</Id>
+		<ScientificName>Merops apiaster</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bienenfresser</GermanName>
+		<GermanType>Vögel - Rackenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Merops apiaster.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>186</Id>
+		<ScientificName>Milvus milvus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rotmilan</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Milvus milvus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>187</Id>
+		<ScientificName>Monticola saxatilis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinrötel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Monticola saxatilis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>188</Id>
+		<ScientificName>Montifringilla nivalis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schneesperling</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Montifringilla nivalis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>189</Id>
+		<ScientificName>Morus bassanus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Basstölpel</GermanName>
+		<GermanType>Vögel - Ruderfüßer</GermanType>
+		<SoundFile>anyurl.com/sounds/Morus bassanus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>190</Id>
+		<ScientificName>Motacilla alba</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bachstelze</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Motacilla alba.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>191</Id>
+		<ScientificName>Motacilla cinerea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gebirgsstelze</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Motacilla cinerea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>192</Id>
+		<ScientificName>Motacilla citreola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zitronenstelze</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Motacilla citreola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>193</Id>
+		<ScientificName>Motacilla flava</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schafstelze</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Motacilla flava.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>194</Id>
+		<ScientificName>Muscicapa striata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grauschnäpper</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Muscicapa striata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>195</Id>
+		<ScientificName>Nucifraga caryocatactes</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Tannenhäher</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Nucifraga caryocatactes.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>196</Id>
+		<ScientificName>Numenius arquata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Großer Brachvogel</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Numenius arquata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>197</Id>
+		<ScientificName>Numenius phaeopus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Regenbrachvogel</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Numenius phaeopus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>198</Id>
+		<ScientificName>Nycticorax nycticorax</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Nachtreiher</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Nycticorax nycticorax.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>199</Id>
+		<ScientificName>Oenanthe isabellina</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Isabellsteinschmätzer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Oenanthe isabellina.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>200</Id>
+		<ScientificName>Oenanthe oenanthe</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Steinschmätzer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Oenanthe oenanthe.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>201</Id>
+		<ScientificName>Oriolus oriolus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Pirol</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Oriolus oriolus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>202</Id>
+		<ScientificName>Otis tarda</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Großtrappe</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Otis tarda.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>203</Id>
+		<ScientificName>Otus scops</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergohreule</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Otus scops.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>204</Id>
+		<ScientificName>Ovis ammon</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Mufflon</GermanName>
+		<GermanType>Säugetiere - Paarhufer</GermanType>
+		<SoundFile>anyurl.com/sounds/Ovis ammon.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>205</Id>
+		<ScientificName>Pandion haliaetus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Fischadler</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pandion haliaetus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>206</Id>
+		<ScientificName>Panurus biarmicus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bartmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Panurus biarmicus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>207</Id>
+		<ScientificName>Parus major</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kohlmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Parus major.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>208</Id>
+		<ScientificName>Passer domesticus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Haussperling</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Passer domesticus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>209</Id>
+		<ScientificName>Passer montanus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Feldsperling</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Passer montanus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>210</Id>
+		<ScientificName>Pelecanus onocrotalus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rosapelikan</GermanName>
+		<GermanType>Vögel - Ruderfüßer</GermanType>
+		<SoundFile>anyurl.com/sounds/Pelecanus onocrotalus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>211</Id>
+		<ScientificName>Pelobates fuscus</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Knoblauchkröte</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Pelobates fuscus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>212</Id>
+		<ScientificName>Pelophylax lessonae TSA</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Kleiner Wasserfrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche ??? ???</GermanType>
+		<SoundFile>anyurl.com/sounds/Pelophylax lessonae TSA.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>213</Id>
+		<ScientificName>Pelophylax ridibundus</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Seefrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Pelophylax ridibundus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>214</Id>
+		<ScientificName>Perdix perdix</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rebhuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Perdix perdix.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>215</Id>
+		<ScientificName>Periparus ater</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Tannenmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Periparus ater.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>216</Id>
+		<ScientificName>Pernis apivorus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wespenbussard</GermanName>
+		<GermanType>Vögel - Greifvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pernis apivorus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>217</Id>
+		<ScientificName>Phalacrocorax carbo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kormoran</GermanName>
+		<GermanType>Vögel - Ruderfüßer</GermanType>
+		<SoundFile>anyurl.com/sounds/Phalacrocorax carbo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>218</Id>
+		<ScientificName>Phalaropus fulicarius</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Thorshühnchen</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Phalaropus fulicarius.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>219</Id>
+		<ScientificName>Phasianus colchicus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Jagdfasan</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phasianus colchicus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>220</Id>
+		<ScientificName>Phoenicurus ochruros</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Hausrotschwanz</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phoenicurus ochruros.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>221</Id>
+		<ScientificName>Phoenicurus phoenicurus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gartenrotschwanz</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phoenicurus phoenicurus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>222</Id>
+		<ScientificName>Phylloscopus bonelli</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Berglaubsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phylloscopus bonelli.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>223</Id>
+		<ScientificName>Phylloscopus collybita</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zilpzalp, Weidenlaubsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phylloscopus collybita.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>224</Id>
+		<ScientificName>Phylloscopus sibilatrix</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldlaubsänger</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phylloscopus sibilatrix.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>225</Id>
+		<ScientificName>Phylloscopus trochilus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Fitis</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Phylloscopus trochilus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>226</Id>
+		<ScientificName>Pica pica</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Elster</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pica pica.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>227</Id>
+		<ScientificName>Picus canus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grauspecht</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Picus canus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>228</Id>
+		<ScientificName>Picus viridis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grünspecht</GermanName>
+		<GermanType>Vögel - Spechtvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Picus viridis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>229</Id>
+		<ScientificName>Platalea leucorodia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Löffler</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Platalea leucorodia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>230</Id>
+		<ScientificName>Plectrophenax nivalis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schneeammer</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Plectrophenax nivalis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>231</Id>
+		<ScientificName>Plegadis falcinellus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sichler</GermanName>
+		<GermanType>Vögel - Schreitvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Plegadis falcinellus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>232</Id>
+		<ScientificName>Pluvialis apricaria</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Goldregenpfeifer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Pluvialis apricaria.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>233</Id>
+		<ScientificName>Podiceps cristatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Haubentaucher</GermanName>
+		<GermanType>Vögel - Lappentaucherartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Podiceps cristatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>234</Id>
+		<ScientificName>Podiceps grisegena</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rothalstaucher</GermanName>
+		<GermanType>Vögel - Lappentaucherartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Podiceps grisegena.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>235</Id>
+		<ScientificName>Poecile montanus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weidenmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Poecile montanus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>236</Id>
+		<ScientificName>Poecile palustris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sumpfmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Poecile palustris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>237</Id>
+		<ScientificName>Porzana parva</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kleines Sumpfhuhn</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Porzana parva.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>238</Id>
+		<ScientificName>Porzana porzana</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Tüpfelsumpfhuhn</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Porzana porzana.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>239</Id>
+		<ScientificName>Prunella modularis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Heckenbraunelle</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Prunella modularis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>240</Id>
+		<ScientificName>Psittacula krameri</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Halsbandsittich</GermanName>
+		<GermanType>Vögel - Papageien</GermanType>
+		<SoundFile>anyurl.com/sounds/Psittacula krameri.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>241</Id>
+		<ScientificName>Pyrrhocorax graculus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Alpendohle</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pyrrhocorax graculus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>242</Id>
+		<ScientificName>Pyrrhocorax pyrrhocorax</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Alpenkrähe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pyrrhocorax pyrrhocorax.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>243</Id>
+		<ScientificName>Pyrrhula pyrrhula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gimpel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Pyrrhula pyrrhula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>244</Id>
+		<ScientificName>Rallus aquaticus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wasserralle</GermanName>
+		<GermanType>Vögel - Kranichvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Rallus aquaticus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>245</Id>
+		<ScientificName>Rana arvalis</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Moorfrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Rana arvalis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>246</Id>
+		<ScientificName>Rana esculenta</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Teichfrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Rana esculenta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>247</Id>
+		<ScientificName>Rana temporaria</ScientificName>
+		<ScientificType>Amphibia</ScientificType>
+		<GermanName>Grasfrosch</GermanName>
+		<GermanType>Amphibien - Froschlurche</GermanType>
+		<SoundFile>anyurl.com/sounds/Rana temporaria.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>248</Id>
+		<ScientificName>Recurvirostra avosetta</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Säbelschnäbler</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Recurvirostra avosetta.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>249</Id>
+		<ScientificName>Regulus ignicapillus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sommergoldhähnchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Regulus ignicapillus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>250</Id>
+		<ScientificName>Regulus regulus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wintergoldhähnchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Regulus regulus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>251</Id>
+		<ScientificName>Remiz pendulinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Beutelmeise</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Remiz pendulinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>252</Id>
+		<ScientificName>Riparia riparia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Uferschwalbe</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Riparia riparia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>253</Id>
+		<ScientificName>Rissa tridactyla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Dreizehenmöwe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Rissa tridactyla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>254</Id>
+		<ScientificName>Saxicola rubetra</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Braunkehlchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Saxicola rubetra.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>255</Id>
+		<ScientificName>Saxicola rubicola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schwarzkehlchen</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Saxicola rubicola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>256</Id>
+		<ScientificName>Sciurus vulgaris</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Gemeines Eichhörnchen</GermanName>
+		<GermanType>Säugetiere - Nagetiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Sciurus vulgaris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>257</Id>
+		<ScientificName>Scolopax rusticola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldschnepfe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Scolopax rusticola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>258</Id>
+		<ScientificName>Serinus serinus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Girlitz</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Serinus serinus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>259</Id>
+		<ScientificName>Sitta europaea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kleiber</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sitta europaea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>260</Id>
+		<ScientificName>Somateria mollissima</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Eiderente</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Somateria mollissima.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>261</Id>
+		<ScientificName>Sterna albifrons oder Sternula albifrons</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Sterna albifrons oder Sternula albifrons.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>262</Id>
+		<ScientificName>Sterna hirundo</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Flußseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Sterna hirundo.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>263</Id>
+		<ScientificName>Sterna paradisaea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Küstenseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Sterna paradisaea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>264</Id>
+		<ScientificName>Streptopelia decaocto</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Türkentaube</GermanName>
+		<GermanType>Vögel - Taubenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Streptopelia decaocto.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>265</Id>
+		<ScientificName>Streptopelia turtur</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Turteltaube</GermanName>
+		<GermanType>Vögel - Taubenvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Streptopelia turtur.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>266</Id>
+		<ScientificName>Strix aluco</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldkauz</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Strix aluco.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>267</Id>
+		<ScientificName>Strix uralensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Habichtskauz</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Strix uralensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>268</Id>
+		<ScientificName>Sturnus vulgaris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Star</GermanName>
+		<GermanType>Vögel - Sperlingsvögel ???</GermanType>
+		<SoundFile>anyurl.com/sounds/Sturnus vulgaris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>269</Id>
+		<ScientificName>Surnia ulula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sperbereule</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Surnia ulula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>270</Id>
+		<ScientificName>Sus scrofa</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Wildschwein</GermanName>
+		<GermanType>Säugetiere - Paarhufer</GermanType>
+		<SoundFile>anyurl.com/sounds/Sus scrofa.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>271</Id>
+		<ScientificName>Sylvia atricapilla</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Mönchsgrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia atricapilla.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>272</Id>
+		<ScientificName>Sylvia borin</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Gartengrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia borin.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>273</Id>
+		<ScientificName>Sylvia cantillans</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Weißbart-Grasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia cantillans.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>274</Id>
+		<ScientificName>Sylvia communis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Dorngrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia communis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>275</Id>
+		<ScientificName>Sylvia conspicillata</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Brillengrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia conspicillata.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>276</Id>
+		<ScientificName>Sylvia curruca</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Klappergrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia curruca.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>277</Id>
+		<ScientificName>Sylvia nisoria</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Sperbergrasmücke</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Sylvia nisoria.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>278</Id>
+		<ScientificName>Tachybaptus ruficollis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zwergtaucher</GermanName>
+		<GermanType>Vögel - Lappentaucherartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Tachybaptus ruficollis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>279</Id>
+		<ScientificName>Tachymarptis melba</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Alpensegler</GermanName>
+		<GermanType>Vögel - Seglervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Tachymarptis melba.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>280</Id>
+		<ScientificName>Tadorna ferruginea</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rostgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Tadorna ferruginea.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>281</Id>
+		<ScientificName>Tadorna tadorna</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Brandgans</GermanName>
+		<GermanType>Vögel - Gänsevögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Tadorna tadorna.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>282</Id>
+		<ScientificName>Tetrao urogallus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Auerhuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Tetrao urogallus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>283</Id>
+		<ScientificName>Tetrastes bonasia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Haselhuhn</GermanName>
+		<GermanType>Vögel - Hühnervögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Tetrastes bonasia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>284</Id>
+		<ScientificName>Thalasseus sandvicensis</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Brandseeschwalbe</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Thalasseus sandvicensis.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>285</Id>
+		<ScientificName>Tringa glareola</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Bruchwasserläufer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Tringa glareola.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>286</Id>
+		<ScientificName>Tringa nebularia</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Grünschenkel</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Tringa nebularia.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>287</Id>
+		<ScientificName>Tringa ochropus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Waldwasserläufer</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Tringa ochropus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>288</Id>
+		<ScientificName>Tringa totanus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rotschenkel</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Tringa totanus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>289</Id>
+		<ScientificName>Troglodytes troglodytes</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Zaunkönig</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Troglodytes troglodytes.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>290</Id>
+		<ScientificName>Turdus iliacus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Rotdrossel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus iliacus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>291</Id>
+		<ScientificName>Turdus merula</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Amsel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus merula.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>292</Id>
+		<ScientificName>Turdus philomelos</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Singdrossel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus philomelos.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>293</Id>
+		<ScientificName>Turdus pilaris</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wacholderdrossel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus pilaris.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>294</Id>
+		<ScientificName>Turdus torquatus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Ringdrossel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus torquatus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>295</Id>
+		<ScientificName>Turdus viscivorus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Misteldrossel</GermanName>
+		<GermanType>Vögel - Sperlingsvögel</GermanType>
+		<SoundFile>anyurl.com/sounds/Turdus viscivorus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>296</Id>
+		<ScientificName>Tyto alba</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Schleiereule</GermanName>
+		<GermanType>Vögel - Eulen</GermanType>
+		<SoundFile>anyurl.com/sounds/Tyto alba.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>297</Id>
+		<ScientificName>Upupa epops</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Wiedehopf</GermanName>
+		<GermanType>Vögel - Bucerotiformes</GermanType>
+		<SoundFile>anyurl.com/sounds/Upupa epops.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>298</Id>
+		<ScientificName>Uria aalge</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Trottellumme</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Uria aalge.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>299</Id>
+		<ScientificName>Vanellus vanellus</ScientificName>
+		<ScientificType>Aves</ScientificType>
+		<GermanName>Kiebitz</GermanName>
+		<GermanType>Vögel - Regenpfeiferartige</GermanType>
+		<SoundFile>anyurl.com/sounds/Vanellus vanellus.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+	<Animal>
+		<Id>300</Id>
+		<ScientificName>Vulpes vulpes</ScientificName>
+		<ScientificType>Mammalia</ScientificType>
+		<GermanName>Rotfuchs</GermanName>
+		<GermanType>Säugetiere - Raubtiere</GermanType>
+		<SoundFile>anyurl.com/sounds/Vulpes vulpes.mp3</SoundFile>
+		<PictureFile/>
+		<WikipediaText/>
+	</Animal>
+</Animals>
