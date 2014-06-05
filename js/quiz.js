@@ -26,14 +26,20 @@
 
   var Quiz = Backbone.Model.extend({
     render: function () {
-      new PlayAgain().render();
-      new QuestionNumber().render();
+      var numberView = new QuestionNumber(),
+          total = this.get('questions').length;
+
+      this.set('total', total);
+      this.set('numberView', numberView);
+      numberView.render(total);
       this.showNext();
+      new PlayAgain().render();
     },
 
     showNext: function () {
       this.currentQuestion = this.get('questions').pop();
       this.currentQuestion.render();
+      this.get('numberView').updateCurrent(this.get('total') - this.get('questions').length);
     }
   });
 
@@ -99,9 +105,14 @@
   });
 
   var QuestionNumber = Backbone.View.extend({
-    initialize: function () {
+    render: function (total) {
       this.setElement($('#question-number'));
-      this.$el.removeClass('hidden');
+      this.$el.removeClass('hidden')
+              .find('.total').text(total);
+    },
+
+    updateCurrent: function (i) {
+      this.$el.find('.current').text(i);
     }
   });
 
