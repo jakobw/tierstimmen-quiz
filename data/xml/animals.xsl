@@ -23,7 +23,7 @@
 						<xsl:value-of select="substring-after(substring-after(substring-after(.,';'),';'),';')"/>
 					</GermanType>
 					<SoundFile>
-						<xsl:value-of select="concat('anyurl.com/sounds/',substring-before(.,';'),'.mp3')"/><!--hier natürlich den dann eigentlichen Pfad generieren-->
+						<xsl:value-of select="concat('sounds/',substring-before(.,';'),'.mp3')"/>
 					</SoundFile>
 					<PictureFile></PictureFile>
 					<WikipediaText></WikipediaText>
