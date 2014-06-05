@@ -137,5 +137,8 @@
     this.quiz.render();
   };
 
-  GAME.init();
+  $('#start').click(function () {
+    $(this).hide();
+    GAME.init();
+  });
 })();

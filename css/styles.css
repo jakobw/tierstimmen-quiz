@@ -31,9 +31,16 @@ body {
   border: 5px solid #ee642e;
 }
 
-#play-again {
+#start {
+  margin-top: 30px;
+}
+#play-again, #start {
   background: #ed9c7b;
   border-color: #ee642e;
+}
+#play-again:active, #play-again:focus, #start:active, #start:focus {
+  box-shadow: none;
+  outline: none;
 }
 #play-again .glyphicon {
   padding: 0 5px;
