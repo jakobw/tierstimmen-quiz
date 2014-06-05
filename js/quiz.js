@@ -25,6 +25,12 @@
   });
 
   var Quiz = Backbone.Model.extend({
+    render: function () {
+      new PlayAgain().render();
+      new QuestionNumber().render();
+      this.showNext();
+    },
+
     showNext: function () {
       this.currentQuestion = this.get('questions').pop();
       this.currentQuestion.render();
@@ -85,6 +91,20 @@
     }
   });
 
+  var PlayAgain = Backbone.View.extend({
+    initialize: function () {
+      this.setElement($('#play-again'));
+      this.$el.removeClass('hidden');
+    }
+  });
+
+  var QuestionNumber = Backbone.View.extend({
+    initialize: function () {
+      this.setElement($('#question-number'));
+      this.$el.removeClass('hidden');
+    }
+  });
+
   var GAME = GAME || {};
 
   GAME.quiz = new Quiz({ questions: [ // hardcoded
@@ -103,7 +123,7 @@
   ]});
 
   GAME.init = function () {
-    this.quiz.showNext();
+    this.quiz.render();
   };
 
   GAME.init();
