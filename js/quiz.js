@@ -17,10 +17,22 @@
       });
     },
 
-    highlightCorrect: function () {
-      this.find(function (answer) {
+    playSound: function () {
+      this.sound && this.sound.pause();
+      this.sound = new Audio(
+        'data/sounds/' + this.correctAnswer().get('sound')
+      )
+      this.sound.play();
+    },
+
+    correctAnswer: function () {
+      return this.find(function (answer) {
         return answer.get('correct');
-      }).trigger('highlight');
+      });
+    },
+
+    highlightCorrect: function () {
+      this.correctAnswer().trigger('highlight');
     }
   });
 
@@ -39,6 +51,7 @@
     showNext: function () {
       this.currentQuestion = this.get('questions').pop();
       this.currentQuestion.render();
+      this.currentQuestion.playSound();
       this.get('numberView').updateCurrent(this.get('total') - this.get('questions').length);
     }
   });
@@ -101,6 +114,12 @@
     initialize: function () {
       this.setElement($('#play-again'));
       this.$el.removeClass('hidden');
+    },
+
+    events: {
+      'click': function () {
+        GAME.quiz.currentQuestion.playSound();
+      }
     }
   });
 
@@ -122,11 +141,11 @@
      new Question([
       new Animal({ name: 'Pikachu1', image: 'foo.png' }),
       new Animal({ name: 'Pikachu2', image: 'foo.png' }),
-      new Animal({ name: 'Pikachu3', image: 'foo.png', correct: true }),
+      new Animal({ name: 'Pikachu3', image: 'foo.png', correct: true, sound: 'Accipiter_nisus_TSA-short.mp3' }),
       new Animal({ name: 'Pikachu4', image: 'foo.png' }),
     ]),
     new Question([
-     new Animal({ name: 'Glumanda1', image: 'bar.png', correct: true }),
+     new Animal({ name: 'Glumanda1', image: 'bar.png', correct: true, sound: 'Strix_aluco_TSA-short.mp3' }),
      new Animal({ name: 'Glumanda2', image: 'bar.png' }),
      new Animal({ name: 'Glumanda3', image: 'bar.png'}),
      new Animal({ name: 'Glumanda4', image: 'bar.png' }),
