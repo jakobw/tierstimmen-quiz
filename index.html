@@ -33,14 +33,17 @@
 </div>
 
 <script id="answer-template" type="text/template">
-  <div class="modal fade">
+  <div class="answer modal fade">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h4 class="modal-title"><%= title %></h4>
+          <h4 class="modal-title"><%= correct ? 'Richtig' : 'Falsch' %>, die Antwort ist <%= animal.get('name') %></h4>
         </div>
-        <div class="modal-body">
-          <p>blabla, Tier-Infos...</p>
+        <div class="modal-body clearfix">
+          <p>
+            <img src="<%= animal.get('image') %>">
+            Hier kommen noch interessante Infos &uuml;ber das Tier.
+          </p>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>

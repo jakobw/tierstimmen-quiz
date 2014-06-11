@@ -75,13 +75,14 @@
     },
 
     validate: function () {
-      var correct = this.model.get('correct');
+      var correct = this.model.get('correct'),
+          question = Question.current;
       if (!correct) {
         this.$el.css('background', '#f0c0ac')
       }
 
-      Question.current.highlightCorrect();
-      var answer = new AnswerView().render(correct);
+      question.highlightCorrect();
+      var answer = new AnswerView().render(correct, question.correctAnswer());
     },
 
     highlight: function () {
@@ -92,9 +93,10 @@
   var AnswerView = Backbone.View.extend({
     el: '.next-question',
 
-    render: function (correct) {
+    render: function (correct, animal) {
       var el = _.template($('#answer-template').html(), {
-        title: correct ? "Richtig" : "Falsch"
+        correct: correct,
+        animal: animal
       });
       $('body').append(el);
 
