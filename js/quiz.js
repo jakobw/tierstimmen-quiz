@@ -139,16 +139,16 @@
 
   GAME.quiz = new Quiz({ questions: [ // hardcoded
      new Question([
-      new Animal({ name: 'Pikachu1', image: 'foo.png' }),
-      new Animal({ name: 'Pikachu2', image: 'foo.png' }),
-      new Animal({ name: 'Pikachu3', image: 'foo.png', correct: true, sound: 'Accipiter_nisus_TSA-short.mp3' }),
-      new Animal({ name: 'Pikachu4', image: 'foo.png' }),
+      new Animal({ name: 'K&uuml;stenseeschwalbe', image: 'data/images/samples/schwalb.jpg' }),
+      new Animal({ name: 'Pikachu', image: 'data/images/samples/pikachu.png' }),
+      new Animal({ name: 'Habicht', image: 'data/images/samples/habicht.jpg', correct: true, sound: 'Accipiter_gentilis_TSA-short.mp3' }),
+      new Animal({ name: 'Wildschwein', image: 'data/images/samples/wildschwein.jpg' }),
     ]),
     new Question([
-     new Animal({ name: 'Glumanda1', image: 'bar.png', correct: true, sound: 'Strix_aluco_TSA-short.mp3' }),
-     new Animal({ name: 'Glumanda2', image: 'bar.png' }),
-     new Animal({ name: 'Glumanda3', image: 'bar.png'}),
-     new Animal({ name: 'Glumanda4', image: 'bar.png' }),
+     new Animal({ name: 'Waldkauz', image: 'data/images/samples/waldkauz.jpg', correct: true, sound: 'Strix_aluco_TSA-short.mp3' }),
+     new Animal({ name: 'Steinhuhn', image: 'data/images/samples/steinhuhn.jpg' }),
+     new Animal({ name: 'Glumanda', image: 'data/images/samples/glumanda.png'}),
+     new Animal({ name: 'Rothirsch', image: 'data/images/samples/rothirsch.jpg' }),
    ]),
   ]});
 
