@@ -46,7 +46,14 @@
           </p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>
+          <% if (last) { %>
+            <div class="text-left">
+              <h4>Spiel beendet!</h4>
+              <p>Du hast <em><%= quiz.correct %></em> von <em><%= quiz.total %></em> Tieren richtig erraten.</p>
+            </div>
+          <% } else { %>
+            <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>
+          <% } %>
         </div>
       </div>
     </div>

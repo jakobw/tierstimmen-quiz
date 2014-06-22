@@ -21,7 +21,7 @@
       this.sound && this.sound.pause();
       this.sound = new Audio(
         'data/sounds/' + this.correctAnswer().get('sound')
-      )
+      );
       this.sound.play();
     },
 
@@ -42,6 +42,7 @@
           total = this.get('questions').length;
 
       this.set('total', total);
+      this.set('correct', 0);
       this.set('numberView', numberView);
       numberView.render(total);
       this.showNext();
@@ -79,6 +80,8 @@
           question = Question.current;
       if (!correct) {
         this.$el.css('background', '#f0c0ac')
+      } else {
+        GAME.quiz.set('correct', GAME.quiz.get('correct') + 1);
       }
 
       question.highlightCorrect();
@@ -96,7 +99,9 @@
     render: function (correct, animal) {
       var el = _.template($('#answer-template').html(), {
         correct: correct,
-        animal: animal
+        animal: animal,
+        last: GAME.quiz.get('questions').length == 0,
+        quiz: GAME.quiz.attributes
       });
       $('body').append(el);
 
