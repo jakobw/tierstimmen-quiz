@@ -17,10 +17,22 @@
       });
     },
 
-    highlightCorrect: function () {
-      this.find(function (answer) {
+    playSound: function () {
+      this.sound && this.sound.pause();
+      this.sound = new Audio(
+        'data/sounds/' + this.correctAnswer().get('sound')
+      );
+      this.sound.play();
+    },
+
+    correctAnswer: function () {
+      return this.find(function (answer) {
         return answer.get('correct');
-      }).trigger('highlight');
+      });
+    },
+
+    highlightCorrect: function () {
+      this.correctAnswer().trigger('highlight');
     }
   });
 
@@ -30,6 +42,7 @@
           total = this.get('questions').length;
 
       this.set('total', total);
+      this.set('correct', 0);
       this.set('numberView', numberView);
       numberView.render(total);
       this.showNext();
@@ -39,6 +52,7 @@
     showNext: function () {
       this.currentQuestion = this.get('questions').pop();
       this.currentQuestion.render();
+      this.currentQuestion.playSound();
       this.get('numberView').updateCurrent(this.get('total') - this.get('questions').length);
     }
   });
@@ -62,13 +76,16 @@
     },
 
     validate: function () {
-      var correct = this.model.get('correct');
+      var correct = this.model.get('correct'),
+          question = Question.current;
       if (!correct) {
         this.$el.css('background', '#f0c0ac')
+      } else {
+        GAME.quiz.set('correct', GAME.quiz.get('correct') + 1);
       }
 
-      Question.current.highlightCorrect();
-      var answer = new AnswerView().render(correct);
+      question.highlightCorrect();
+      var answer = new AnswerView().render(correct, question.correctAnswer());
     },
 
     highlight: function () {
@@ -79,9 +96,12 @@
   var AnswerView = Backbone.View.extend({
     el: '.next-question',
 
-    render: function (correct) {
+    render: function (correct, animal) {
       var el = _.template($('#answer-template').html(), {
-        title: correct ? "Richtig" : "Falsch"
+        correct: correct,
+        animal: animal,
+        last: GAME.quiz.get('questions').length == 0,
+        quiz: GAME.quiz.attributes
       });
       $('body').append(el);
 
@@ -101,6 +121,12 @@
     initialize: function () {
       this.setElement($('#play-again'));
       this.$el.removeClass('hidden');
+    },
+
+    events: {
+      'click': function () {
+        GAME.quiz.currentQuestion.playSound();
+      }
     }
   });
 
@@ -120,16 +146,16 @@
 
   GAME.quiz = new Quiz({ questions: [ // hardcoded
      new Question([
-      new Animal({ name: 'Pikachu1', image: 'foo.png' }),
-      new Animal({ name: 'Pikachu2', image: 'foo.png' }),
-      new Animal({ name: 'Pikachu3', image: 'foo.png', correct: true }),
-      new Animal({ name: 'Pikachu4', image: 'foo.png' }),
+      new Animal({ name: 'K&uuml;stenseeschwalbe', image: 'data/images/samples/schwalb.jpg' }),
+      new Animal({ name: 'Pikachu', image: 'data/images/samples/pikachu.png' }),
+      new Animal({ name: 'Habicht', image: 'data/images/samples/habicht.jpg', correct: true, sound: 'Accipiter_gentilis_TSA-short.mp3' }),
+      new Animal({ name: 'Wildschwein', image: 'data/images/samples/wildschwein.jpg' }),
     ]),
     new Question([
-     new Animal({ name: 'Glumanda1', image: 'bar.png', correct: true }),
-     new Animal({ name: 'Glumanda2', image: 'bar.png' }),
-     new Animal({ name: 'Glumanda3', image: 'bar.png'}),
-     new Animal({ name: 'Glumanda4', image: 'bar.png' }),
+     new Animal({ name: 'Waldkauz', image: 'data/images/samples/waldkauz.jpg', correct: true, sound: 'Strix_aluco_TSA-short.mp3' }),
+     new Animal({ name: 'Steinhuhn', image: 'data/images/samples/steinhuhn.jpg' }),
+     new Animal({ name: 'Glumanda', image: 'data/images/samples/glumanda.png'}),
+     new Animal({ name: 'Rothirsch', image: 'data/images/samples/rothirsch.jpg' }),
    ]),
   ]});
 
