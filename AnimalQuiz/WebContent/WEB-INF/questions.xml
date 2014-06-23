@@ -1,0 +1,39 @@
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Questions">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Question" type="QuestionType"
+					minOccurs="10" maxOccurs="10" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="QuestionType">
+		<xs:sequence>
+			<xs:element name="Correct" type="xs:integer" minOccurs="1"
+				maxOccurs="1" />
+			<xs:element name="Animal" type="AnimalType" minOccurs="4"
+				maxOccurs="4" />
+		</xs:sequence>
+		<xs:attribute name="number" type="xs:integer" use="required" />
+	</xs:complexType>
+
+
+	<xs:complexType name="AnimalType">
+		<xs:sequence>
+			<xs:element name="Id" type="xs:integer" />
+			<xs:element name="ScientificName" type="xs:string" />
+			<xs:element name="ScientificType" type="xs:string" />
+			<xs:element name="GermanName" type="xs:string" />
+			<xs:element name="GermanType" type="xs:string" />
+			<xs:element name="SoundFile" type="xs:string" />
+			<xs:element name="PictureFile" type="xs:string"
+				default="We are sorry... we couldn't find a picture for this animal." />
+			<xs:element name="WikipediaText" type="xs:string"
+				default="We are sorry... we couldn't find any information for this animal." />
+		</xs:sequence>
+	</xs:complexType>
+
+</xs:schema>
