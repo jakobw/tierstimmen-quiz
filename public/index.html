@@ -16,11 +16,13 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h3><span id="question-num">0</span>/10</h3>
+      <button id="start" class="btn-lg btn-primary">Spiel starten</button>
+
+      <h3 id="question-number" class="hidden"><span class="current">0</span>/<span class="total">0</span></h3>
       <div id="answers" class="clearfix row">
 
       </div>
-      <button id="play-again" class="btn btn-primary"><span class="glyphicon glyphicon-volume-up"></span>Erneut abspielen</button>
+      <button id="play-again" class="btn btn-primary hidden"><span class="glyphicon glyphicon-volume-up"></span>Erneut abspielen</button>
     </div>
   </div>
   <div class="row">
@@ -31,17 +33,27 @@
 </div>
 
 <script id="answer-template" type="text/template">
-  <div class="modal fade">
+  <div class="answer modal fade">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h4 class="modal-title"><%= title %></h4>
+          <h4 class="modal-title"><%= correct ? 'Richtig' : 'Falsch' %>, die Antwort ist <%= animal.get('name') %></h4>
         </div>
-        <div class="modal-body">
-          <p>blabla, Tier-Infos...</p>
+        <div class="modal-body clearfix">
+          <p>
+            <img src="<%= animal.get('image') %>">
+            Hier kommen noch interessante Infos &uuml;ber das Tier.
+          </p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>
+          <% if (last) { %>
+            <div class="text-left">
+              <h4>Spiel beendet!</h4>
+              <p>Du hast <em><%= quiz.correct %></em> von <em><%= quiz.total %></em> Tieren richtig erraten.</p>
+            </div>
+          <% } else { %>
+            <button type="button" class="btn btn-primary next-question">N&auml;chste Frage</button>
+          <% } %>
         </div>
       </div>
     </div>

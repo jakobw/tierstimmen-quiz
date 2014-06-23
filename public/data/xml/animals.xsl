@@ -4,7 +4,7 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 	<xsl:template match="/">
-		<Animals>
+		<Animals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="animals.xsd">
 			<xsl:for-each select="//Animal">
 				<Animal>
 					<Id>
