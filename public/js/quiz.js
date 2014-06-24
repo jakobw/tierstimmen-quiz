@@ -20,7 +20,7 @@
     playSound: function () {
       this.sound && this.sound.pause();
       this.sound = new Audio(
-        'data/sounds/' + this.correctAnswer().get('sound')
+        'data/' + this.correctAnswer().get('sound')
       );
       this.sound.play();
     },
@@ -142,22 +142,36 @@
     }
   });
 
+  var getQuestions = function () {
+    var questions = [];
+
+    $.get('/quiz', function (xml) {
+      $(xml).find('Question').each(function () {
+        var correct = $(this).find('Correct').text(),
+            animals = [];
+
+        $(this).find('Animal').each(function () {
+          var animal = {
+            correct: correct == $(this).find('Id').text(),
+            name: $(this).find('GermanName').text(),
+            image: $(this).find('PictureFile').text(),
+            sound: $(this).find('SoundFile').text().replace(' ', '_').replace('.', '_TSA-short.')
+          };
+
+          animals.push(new Animal(animal));
+        });
+
+        questions.push(new Question(animals));
+      });
+    });
+
+    return questions;
+  };
+
+
   var GAME = GAME || {};
 
-  GAME.quiz = new Quiz({ questions: [ // hardcoded
-     new Question([
-      new Animal({ name: 'K&uuml;stenseeschwalbe', image: 'data/images/samples/schwalb.jpg' }),
-      new Animal({ name: 'Pikachu', image: 'data/images/samples/pikachu.png' }),
-      new Animal({ name: 'Habicht', image: 'data/images/samples/habicht.jpg', correct: true, sound: 'Accipiter_gentilis_TSA-short.mp3' }),
-      new Animal({ name: 'Wildschwein', image: 'data/images/samples/wildschwein.jpg' }),
-    ]),
-    new Question([
-     new Animal({ name: 'Waldkauz', image: 'data/images/samples/waldkauz.jpg', correct: true, sound: 'Strix_aluco_TSA-short.mp3' }),
-     new Animal({ name: 'Steinhuhn', image: 'data/images/samples/steinhuhn.jpg' }),
-     new Animal({ name: 'Glumanda', image: 'data/images/samples/glumanda.png'}),
-     new Animal({ name: 'Rothirsch', image: 'data/images/samples/rothirsch.jpg' }),
-   ]),
-  ]});
+  GAME.quiz = new Quiz({ questions: getQuestions() });
 
   GAME.init = function () {
     this.quiz.render();
