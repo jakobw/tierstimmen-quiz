@@ -155,6 +155,7 @@
             correct: correct == $(this).find('Id').text(),
             name: $(this).find('GermanName').text(),
             image: $(this).find('PictureFile').text(),
+            description: $(this).find('WikipediaText').text(),
             sound: $(this).find('SoundFile').text().replace(' ', '_').replace('.', '_TSA-short.')
           };
 
