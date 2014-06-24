@@ -1,6 +1,7 @@
 package Tools;
 
 
+import java.io.File;
 import java.io.IOException;
 import java.io.StringReader;
 import java.net.URISyntaxException;
@@ -37,7 +38,7 @@ public class XMLValidator {
 			  // build the schema
 		boolean isValid = false;
 		ClassLoader loader = Thread.currentThread().getContextClassLoader();
-		URL url = loader.getResource("..\\questions.xml");
+		URL url = loader.getResource(".." + File.separator + "questions.xml");
 		String XSDsource = null;
 		try {
 			XSDsource = url.toURI().toString();

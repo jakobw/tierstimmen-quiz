@@ -1,5 +1,6 @@
 package XML_DB;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
@@ -37,7 +38,7 @@ public class AnimalDB {
 			session = new ClientSession("localhost", 1984, "admin", "admin");
 			
 			ClassLoader loader = Thread.currentThread().getContextClassLoader();
-			URL url = loader.getResource("..\\animals.xml");
+			URL url = loader.getResource(".." + File.separator + "animals.xml");
 			XMLsource =  url.toURI().toString();
 			
 			
