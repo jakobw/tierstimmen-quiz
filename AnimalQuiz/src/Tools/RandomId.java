@@ -8,7 +8,7 @@ import java.util.Random;
 public class RandomId {
 	
 	private int questionAnswers = 4;
-	private int Animals = 300;
+	private int Animals = 284;
 	
 	public RandomId() {
 		
@@ -16,7 +16,7 @@ public class RandomId {
 	
 	public ArrayList<Integer> getRandomNum() {
 		ArrayList<Integer> result =new ArrayList<Integer>(questionAnswers);
-		int size = 300;
+		int size = 284;
 
         ArrayList<Integer> list = new ArrayList<Integer>(size);
         for(int i = 1; i <= size; i++) {
