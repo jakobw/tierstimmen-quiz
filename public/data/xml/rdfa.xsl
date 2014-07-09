@@ -30,7 +30,7 @@
 				<td>
 					<xsl:attribute name="property">soundfile</xsl:attribute>
 					<a>
-						<xsl:attribute name="href"><xsl:value-of select="SoundFile"/></xsl:attribute>
+						<xsl:attribute name="href">data/<xsl:value-of select="SoundFile"/></xsl:attribute>
 						<xsl:text>Stimme</xsl:text>
 					</a>
 				</td>
