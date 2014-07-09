@@ -18,15 +18,19 @@
 		</tr>
 		<xsl:for-each select="Animal">
 			<tr>
-				<td><xsl:value-of select="GermanName"/></td>
+				<td>
+					<xsl:attribute name="property">name</xsl:attribute>  <xsl:value-of select="GermanName"/>
+				</td>
 				<td>
 					<img>
-						<xsl:attribute name="src">data/<xsl:value-of select="PictureFile"/></xsl:attribute>
+						<xsl:attribute name="property">imagefile</xsl:attribute>
+						<xsl:attribute name="src"><xsl:value-of select="PictureFile"/></xsl:attribute>
 					</img>
 				</td>
 				<td>
+					<xsl:attribute name="property">soundfile</xsl:attribute>
 					<a>
-						<xsl:attribute name="href">data/<xsl:value-of select="SoundFile"/> </xsl:attribute>
+						<xsl:attribute name="href"><xsl:value-of select="SoundFile"/></xsl:attribute>
 						<xsl:text>Stimme</xsl:text>
 					</a>
 				</td>
