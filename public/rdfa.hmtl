@@ -1,0 +1,2005 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tierverzeichnis</title>
+</head>
+<body><table>
+<tr>
+<th>Name</th>
+<th>Bild</th>
+<th>Stimme</th>
+<th>Wissenschaftlicher Name</th>
+<th>Link zur Wikipedia</th>
+</tr>
+<tr>
+<td property="name">Habicht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/200px-Northern_Goshawk_ad_M2.jpg"></td>
+<td property="soundfile"><a href="sounds/Accipiter%20gentilis.mp3">Stimme</a></td>
+<td>Accipiter gentilis</td>
+<td><a href="http://de.wikipedia.org/wiki/Accipiter%20gentilis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sperber</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Accnis.jpg/200px-Accnis.jpg"></td>
+<td property="soundfile"><a href="sounds/Accipiter%20nisus.mp3">Stimme</a></td>
+<td>Accipiter nisus</td>
+<td><a href="http://de.wikipedia.org/wiki/Accipiter%20nisus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Drosselrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Acrocephalus_arundinaceus_adult_NRM.jpg/200px-Acrocephalus_arundinaceus_adult_NRM.jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20arundinaceus.mp3">Stimme</a></td>
+<td>Acrocephalus arundinaceus</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20arundinaceus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Buschrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blyth's_Reed_Warbler_I2_IMG_9417.jpg/200px-Blyth's_Reed_Warbler_I2_IMG_9417.jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20dumetorum.mp3">Stimme</a></td>
+<td>Acrocephalus dumetorum</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20dumetorum">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Seggenrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Seggenrohrsaenger_hand.jpg/200px-Seggenrohrsaenger_hand.jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20paludicola.mp3">Stimme</a></td>
+<td>Acrocephalus paludicola</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20paludicola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sumpfrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Acrocephalus_palustris_(Marek_Szczepanek).jpg/200px-Acrocephalus_palustris_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20palustris.mp3">Stimme</a></td>
+<td>Acrocephalus palustris</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20palustris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schilfrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Acrocephalus_schoenobaenus_1_(Marek_Szczepanek)-2.jpg/200px-Acrocephalus_schoenobaenus_1_(Marek_Szczepanek)-2.jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20schoenobaenus.mp3">Stimme</a></td>
+<td>Acrocephalus schoenobaenus</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20schoenobaenus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Teichrohrsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Acrocephalus_scirpaceus_Vlaskop_cropped.jpg/200px-Acrocephalus_scirpaceus_Vlaskop_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Acrocephalus%20scirpaceus.mp3">Stimme</a></td>
+<td>Acrocephalus scirpaceus</td>
+<td><a href="http://de.wikipedia.org/wiki/Acrocephalus%20scirpaceus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Flußuferläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/200px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg"></td>
+<td property="soundfile"><a href="sounds/Actitis%20hypoleucos.mp3">Stimme</a></td>
+<td>Actitis hypoleucos</td>
+<td><a href="http://de.wikipedia.org/wiki/Actitis%20hypoleucos">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schwanzmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aegithalos_caudatus.jpg/200px-Aegithalos_caudatus.jpg"></td>
+<td property="soundfile"><a href="sounds/Aegithalos%20caudatus.mp3">Stimme</a></td>
+<td>Aegithalos caudatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Aegithalos%20caudatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rauhfußkauz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Aegolius-funereus-001.jpg/200px-Aegolius-funereus-001.jpg"></td>
+<td property="soundfile"><a href="sounds/Aegolius%20funereus.mp3">Stimme</a></td>
+<td>Aegolius funereus</td>
+<td><a href="http://de.wikipedia.org/wiki/Aegolius%20funereus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mandarinente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Aix_galericulata_-_Z%C3%BCrich_-_Hafen_Riesbach_2011-01-14_15-58-32.JPG/200px-Aix_galericulata_-_Z%C3%BCrich_-_Hafen_Riesbach_2011-01-14_15-58-32.JPG"></td>
+<td property="soundfile"><a href="sounds/Aix%20galericulata.mp3">Stimme</a></td>
+<td>Aix galericulata</td>
+<td><a href="http://de.wikipedia.org/wiki/Aix%20galericulata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Feldlerche</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Alauda_arvensis_2.jpg/200px-Alauda_arvensis_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Alauda%20arvensis.mp3">Stimme</a></td>
+<td>Alauda arvensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Alauda%20arvensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Eisvogel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alcatt.jpg/200px-Alcatt.jpg"></td>
+<td property="soundfile"><a href="sounds/Alcedo%20atthis.mp3">Stimme</a></td>
+<td>Alcedo atthis</td>
+<td><a href="http://de.wikipedia.org/wiki/Alcedo%20atthis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Steinhuhn_Alectoris_graeca.jpg/200px-Steinhuhn_Alectoris_graeca.jpg"></td>
+<td property="soundfile"><a href="sounds/Alectoris%20graeca.mp3">Stimme</a></td>
+<td>Alectoris graeca</td>
+<td><a href="http://de.wikipedia.org/wiki/Alectoris%20graeca">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Geburtshelferkröte</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AlytesObstet.jpg/200px-AlytesObstet.jpg"></td>
+<td property="soundfile"><a href="sounds/Alytes%20obstetricans.mp3">Stimme</a></td>
+<td>Alytes obstetricans</td>
+<td><a href="http://de.wikipedia.org/wiki/Alytes%20obstetricans">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Spießente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Northern_Pintails_(Male_&amp;_Female)_I_IMG_0911.jpg/200px-Northern_Pintails_(Male_&amp;_Female)_I_IMG_0911.jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20acuta.mp3">Stimme</a></td>
+<td>Anas acuta</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20acuta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Löffelente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northern_Shoveler_Anas_clypeata.jpg/200px-Northern_Shoveler_Anas_clypeata.jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20clypeata.mp3">Stimme</a></td>
+<td>Anas clypeata</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20clypeata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Krickente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flickr_-_Rainbirder_-_EurasianTeal_in_flight_(cropped).jpg/200px-Flickr_-_Rainbirder_-_EurasianTeal_in_flight_(cropped).jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20crecca.mp3">Stimme</a></td>
+<td>Anas crecca</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20crecca">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Pfeifente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Anas_penelope_kuribo_cropped.jpg/200px-Anas_penelope_kuribo_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20penelope.mp3">Stimme</a></td>
+<td>Anas penelope</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20penelope">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Knäkente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Garganey_(Anas_querquedula)_RWD3.jpg/200px-Garganey_(Anas_querquedula)_RWD3.jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20querquedula.mp3">Stimme</a></td>
+<td>Anas querquedula</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20querquedula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schnatterente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Anas-strepera-001.jpg/200px-Anas-strepera-001.jpg"></td>
+<td property="soundfile"><a href="sounds/Anas%20strepera.mp3">Stimme</a></td>
+<td>Anas strepera</td>
+<td><a href="http://de.wikipedia.org/wiki/Anas%20strepera">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bläßgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/White-fronted.goose.750pix.jpg/200px-White-fronted.goose.750pix.jpg"></td>
+<td property="soundfile"><a href="sounds/Anser%20albifrons.mp3">Stimme</a></td>
+<td>Anser albifrons</td>
+<td><a href="http://de.wikipedia.org/wiki/Anser%20albifrons">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Graugans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Graugans_Anser_Anser.jpg/200px-Graugans_Anser_Anser.jpg"></td>
+<td property="soundfile"><a href="sounds/Anser%20anser.mp3">Stimme</a></td>
+<td>Anser anser</td>
+<td><a href="http://de.wikipedia.org/wiki/Anser%20anser">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kurzschnabelgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anser_brachyrhynchus.jpg/200px-Anser_brachyrhynchus.jpg"></td>
+<td property="soundfile"><a href="sounds/Anser%20brachyrhynchus.mp3">Stimme</a></td>
+<td>Anser brachyrhynchus</td>
+<td><a href="http://de.wikipedia.org/wiki/Anser%20brachyrhynchus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwerggans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ente_unbekannt_1.jpg/200px-Ente_unbekannt_1.jpg"></td>
+<td property="soundfile"><a href="sounds/Anser%20erythropus.mp3">Stimme</a></td>
+<td>Anser erythropus</td>
+<td><a href="http://de.wikipedia.org/wiki/Anser%20erythropus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Brachpieper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/AnthusCampestris_cropped.jpg/200px-AnthusCampestris_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Anthus%20campestris.mp3">Stimme</a></td>
+<td>Anthus campestris</td>
+<td><a href="http://de.wikipedia.org/wiki/Anthus%20campestris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wiesenpieper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Meadowpippit2008_edit.jpg/200px-Meadowpippit2008_edit.jpg"></td>
+<td property="soundfile"><a href="sounds/Anthus%20pratensis.mp3">Stimme</a></td>
+<td>Anthus pratensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Anthus%20pratensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bergpieper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anthus_spinoletta.jpg/200px-Anthus_spinoletta.jpg"></td>
+<td property="soundfile"><a href="sounds/Anthus%20spinoletta.mp3">Stimme</a></td>
+<td>Anthus spinoletta</td>
+<td><a href="http://de.wikipedia.org/wiki/Anthus%20spinoletta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Baumpieper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Anthus_triviallis_(Marek_Szczepanek).jpg/200px-Anthus_triviallis_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Anthus%20trivialis.mp3">Stimme</a></td>
+<td>Anthus trivialis</td>
+<td><a href="http://de.wikipedia.org/wiki/Anthus%20trivialis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mauersegler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Apus_apus_-Barcelona,_Spain-8_(1).jpg/200px-Apus_apus_-Barcelona,_Spain-8_(1).jpg"></td>
+<td property="soundfile"><a href="sounds/Apus%20apus.mp3">Stimme</a></td>
+<td>Apus apus</td>
+<td><a href="http://de.wikipedia.org/wiki/Apus%20apus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GoldenEagle-Nova.jpg/200px-GoldenEagle-Nova.jpg"></td>
+<td property="soundfile"><a href="sounds/Aquila%20chrysaetos.mp3">Stimme</a></td>
+<td>Aquila chrysaetos</td>
+<td><a href="http://de.wikipedia.org/wiki/Aquila%20chrysaetos">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schelladler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Great_spotted_Eagle_I2_IMG_8358.jpg/200px-Great_spotted_Eagle_I2_IMG_8358.jpg"></td>
+<td property="soundfile"><a href="sounds/Aquila%20clanga.mp3">Stimme</a></td>
+<td>Aquila clanga</td>
+<td><a href="http://de.wikipedia.org/wiki/Aquila%20clanga">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kaiseradler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Impeagle.JPG/200px-Impeagle.JPG"></td>
+<td property="soundfile"><a href="sounds/Aquila%20heliaca.mp3">Stimme</a></td>
+<td>Aquila heliaca</td>
+<td><a href="http://de.wikipedia.org/wiki/Aquila%20heliaca">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steppenadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Aquila_nipalensis_2010.JPG/200px-Aquila_nipalensis_2010.JPG"></td>
+<td property="soundfile"><a href="sounds/Aquila%20nipalensis.mp3">Stimme</a></td>
+<td>Aquila nipalensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Aquila%20nipalensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schreiadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aquila_pomarina_orlik_krzykliwyAM.jpg/200px-Aquila_pomarina_orlik_krzykliwyAM.jpg"></td>
+<td property="soundfile"><a href="sounds/Aquila%20pomarina.mp3">Stimme</a></td>
+<td>Aquila pomarina</td>
+<td><a href="http://de.wikipedia.org/wiki/Aquila%20pomarina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Graureiher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ardea_cinerea_-_Pak_Thale.jpg/200px-Ardea_cinerea_-_Pak_Thale.jpg"></td>
+<td property="soundfile"><a href="sounds/Ardea%20cinerea.mp3">Stimme</a></td>
+<td>Ardea cinerea</td>
+<td><a href="http://de.wikipedia.org/wiki/Ardea%20cinerea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinwälzer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_(habitus).jpg/200px-Arenaria_interpres_(habitus).jpg"></td>
+<td property="soundfile"><a href="sounds/Arenaria%20interpres.mp3">Stimme</a></td>
+<td>Arenaria interpres</td>
+<td><a href="http://de.wikipedia.org/wiki/Arenaria%20interpres">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldohreule</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Asio_otus_-Battlefield_Falconry_Centre,_Shrewsbury,_Shropshire,_England-8a.jpg/200px-Asio_otus_-Battlefield_Falconry_Centre,_Shrewsbury,_Shropshire,_England-8a.jpg"></td>
+<td property="soundfile"><a href="sounds/Asio%20otus.mp3">Stimme</a></td>
+<td>Asio otus</td>
+<td><a href="http://de.wikipedia.org/wiki/Asio%20otus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinkauz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mochuelo_Com%C3%BAn_(_Athene_noctua_)(1).jpg/200px-Mochuelo_Com%C3%BAn_(_Athene_noctua_)(1).jpg"></td>
+<td property="soundfile"><a href="sounds/Athene%20noctua.mp3">Stimme</a></td>
+<td>Athene noctua</td>
+<td><a href="http://de.wikipedia.org/wiki/Athene%20noctua">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Tafelente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aythya_ferina_Sandwell_2.jpg/200px-Aythya_ferina_Sandwell_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Aythya%20ferina.mp3">Stimme</a></td>
+<td>Aythya ferina</td>
+<td><a href="http://de.wikipedia.org/wiki/Aythya%20ferina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Reiherente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tufted-Duck-male-female.jpg/200px-Tufted-Duck-male-female.jpg"></td>
+<td property="soundfile"><a href="sounds/Aythya%20fuligula.mp3">Stimme</a></td>
+<td>Aythya fuligula</td>
+<td><a href="http://de.wikipedia.org/wiki/Aythya%20fuligula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotbauchunke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bombina_bombina_1_(Marek_Szczepanek).jpg/200px-Bombina_bombina_1_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Bombina%20bombina.mp3">Stimme</a></td>
+<td>Bombina bombina</td>
+<td><a href="http://de.wikipedia.org/wiki/Bombina%20bombina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gelbbauchunke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BombinaVariegataJuv.jpg/200px-BombinaVariegataJuv.jpg"></td>
+<td property="soundfile"><a href="sounds/Bombina%20variegata.mp3">Stimme</a></td>
+<td>Bombina variegata</td>
+<td><a href="http://de.wikipedia.org/wiki/Bombina%20variegata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Seidenschwanz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cedar_Wax_Wing.jpg/200px-Cedar_Wax_Wing.jpg"></td>
+<td property="soundfile"><a href="sounds/Bombycilla%20garrulus.mp3">Stimme</a></td>
+<td>Bombycilla garrulus</td>
+<td><a href="http://de.wikipedia.org/wiki/Bombycilla%20garrulus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rohrdommel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Botaurus_stellaris_(Marek_Szczepanek).jpg/200px-Botaurus_stellaris_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Botaurus%20stellaris.mp3">Stimme</a></td>
+<td>Botaurus stellaris</td>
+<td><a href="http://de.wikipedia.org/wiki/Botaurus%20stellaris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ringelgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Brent_Goose.jpg/200px-Brent_Goose.jpg"></td>
+<td property="soundfile"><a href="sounds/Branta%20bernicla.mp3">Stimme</a></td>
+<td>Branta bernicla</td>
+<td><a href="http://de.wikipedia.org/wiki/Branta%20bernicla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kanadagans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/200px-Canada_goose.jpg"></td>
+<td property="soundfile"><a href="sounds/Branta%20canadensis.mp3">Stimme</a></td>
+<td>Branta canadensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Branta%20canadensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weißwangengans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Branta_leucopsis_-standing_in_a_field-8.jpg/200px-Branta_leucopsis_-standing_in_a_field-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Branta%20leucopsis.mp3">Stimme</a></td>
+<td>Branta leucopsis</td>
+<td><a href="http://de.wikipedia.org/wiki/Branta%20leucopsis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rothalsgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Red-breasted_goose_arp.jpg/200px-Red-breasted_goose_arp.jpg"></td>
+<td property="soundfile"><a href="sounds/Branta%20ruficollis.mp3">Stimme</a></td>
+<td>Branta ruficollis</td>
+<td><a href="http://de.wikipedia.org/wiki/Branta%20ruficollis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Uhu</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uhu-muc.jpg/200px-Uhu-muc.jpg"></td>
+<td property="soundfile"><a href="sounds/Bubo%20bubo.mp3">Stimme</a></td>
+<td>Bubo bubo</td>
+<td><a href="http://de.wikipedia.org/wiki/Bubo%20bubo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schnee-Eule</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Snowy_Owl_-_Schnee-Eule.jpg/200px-Snowy_Owl_-_Schnee-Eule.jpg"></td>
+<td property="soundfile"><a href="sounds/Bubo%20scandiacus.mp3">Stimme</a></td>
+<td>Bubo scandiacus</td>
+<td><a href="http://de.wikipedia.org/wiki/Bubo%20scandiacus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kuhreiher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cattle_Egret.jpg/200px-Cattle_Egret.jpg"></td>
+<td property="soundfile"><a href="sounds/Bubulcus%20ibis.mp3">Stimme</a></td>
+<td>Bubulcus ibis</td>
+<td><a href="http://de.wikipedia.org/wiki/Bubulcus%20ibis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schellente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Common_Goldeneye.jpg/200px-Common_Goldeneye.jpg"></td>
+<td property="soundfile"><a href="sounds/Bucephala%20clangula.mp3">Stimme</a></td>
+<td>Bucephala clangula</td>
+<td><a href="http://de.wikipedia.org/wiki/Bucephala%20clangula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Erdkröte</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bufo_bufo_2_(2005_07_11).jpg/200px-Bufo_bufo_2_(2005_07_11).jpg"></td>
+<td property="soundfile"><a href="sounds/Bufo%20bufo.mp3">Stimme</a></td>
+<td>Bufo bufo</td>
+<td><a href="http://de.wikipedia.org/wiki/Bufo%20bufo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wechselkröte</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bufo_viridis_sc.JPG/200px-Bufo_viridis_sc.JPG"></td>
+<td property="soundfile"><a href="sounds/Bufo%20viridis.mp3">Stimme</a></td>
+<td>Bufo viridis</td>
+<td><a href="http://de.wikipedia.org/wiki/Bufo%20viridis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Triel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burhinus_oedicnemus0.jpg/200px-Burhinus_oedicnemus0.jpg"></td>
+<td property="soundfile"><a href="sounds/Burhinus%20oedicnemus.mp3">Stimme</a></td>
+<td>Burhinus oedicnemus</td>
+<td><a href="http://de.wikipedia.org/wiki/Burhinus%20oedicnemus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mäusebussard</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buteo_buteo_-Netherlands-8.jpg/200px-Buteo_buteo_-Netherlands-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Buteo%20buteo.mp3">Stimme</a></td>
+<td>Buteo buteo</td>
+<td><a href="http://de.wikipedia.org/wiki/Buteo%20buteo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Adlerbussard</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Buteo_rufinus.jpg/200px-Buteo_rufinus.jpg"></td>
+<td property="soundfile"><a href="sounds/Buteo%20rufinus.mp3">Stimme</a></td>
+<td>Buteo rufinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Buteo%20rufinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kurzzehenlerche</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calandrella_brachydactyla1.jpg/200px-Calandrella_brachydactyla1.jpg"></td>
+<td property="soundfile"><a href="sounds/Calandrella%20brachydactyla.mp3">Stimme</a></td>
+<td>Calandrella brachydactyla</td>
+<td><a href="http://de.wikipedia.org/wiki/Calandrella%20brachydactyla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Spornammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Laplandbunting67.jpg/200px-Laplandbunting67.jpg"></td>
+<td property="soundfile"><a href="sounds/Calcarius%20lapponicus.mp3">Stimme</a></td>
+<td>Calcarius lapponicus</td>
+<td><a href="http://de.wikipedia.org/wiki/Calcarius%20lapponicus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Knutt</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calidris_canutus_(summer).jpg/200px-Calidris_canutus_(summer).jpg"></td>
+<td property="soundfile"><a href="sounds/Calidris%20canutus.mp3">Stimme</a></td>
+<td>Calidris canutus</td>
+<td><a href="http://de.wikipedia.org/wiki/Calidris%20canutus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Eurasischer Wolf</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Varg_fotograferad_pa_Polar_Zoo_Norge_(6).jpg/200px-Varg_fotograferad_pa_Polar_Zoo_Norge_(6).jpg"></td>
+<td property="soundfile"><a href="sounds/Canis%20lupus.mp3">Stimme</a></td>
+<td>Canis lupus</td>
+<td><a href="http://de.wikipedia.org/wiki/Canis%20lupus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Europäisches Reh</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Capreolus_capreolus_2_Jojo.jpg/200px-Capreolus_capreolus_2_Jojo.jpg"></td>
+<td property="soundfile"><a href="sounds/Capreolus%20capreolus.mp3">Stimme</a></td>
+<td>Capreolus capreolus</td>
+<td><a href="http://de.wikipedia.org/wiki/Capreolus%20capreolus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ziegenmelker</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Caprimulgus_europaeus.jpg/200px-Caprimulgus_europaeus.jpg"></td>
+<td property="soundfile"><a href="sounds/Caprimulgus%20europaeus.mp3">Stimme</a></td>
+<td>Caprimulgus europaeus</td>
+<td><a href="http://de.wikipedia.org/wiki/Caprimulgus%20europaeus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bluthänfling</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/200px-Carduelis_cannabina_-England_-male-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Carduelis%20cannabina.mp3">Stimme</a></td>
+<td>Carduelis cannabina</td>
+<td><a href="http://de.wikipedia.org/wiki/Carduelis%20cannabina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Stieglitz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carcar.jpg/200px-Carcar.jpg"></td>
+<td property="soundfile"><a href="sounds/Carduelis%20carduelis.mp3">Stimme</a></td>
+<td>Carduelis carduelis</td>
+<td><a href="http://de.wikipedia.org/wiki/Carduelis%20carduelis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zitronenzeisig</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_citrinella.jpg/200px-Carduelis_citrinella.jpg"></td>
+<td property="soundfile"><a href="sounds/Carduelis%20citrinella.mp3">Stimme</a></td>
+<td>Carduelis citrinella</td>
+<td><a href="http://de.wikipedia.org/wiki/Carduelis%20citrinella">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Berghänfling</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Carduelis_flavirostris.jpg/200px-Carduelis_flavirostris.jpg"></td>
+<td property="soundfile"><a href="sounds/Carduelis%20flavirostris.mp3">Stimme</a></td>
+<td>Carduelis flavirostris</td>
+<td><a href="http://de.wikipedia.org/wiki/Carduelis%20flavirostris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Erlenzeisig</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carduelis_spinus_male.jpg/200px-Carduelis_spinus_male.jpg"></td>
+<td property="soundfile"><a href="sounds/Carduelis%20spinus.mp3">Stimme</a></td>
+<td>Carduelis spinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Carduelis%20spinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Karmingimpel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Carpodacus_erythrinus_20060623.jpg/200px-Carpodacus_erythrinus_20060623.jpg"></td>
+<td property="soundfile"><a href="sounds/Carpodacus%20erythrinus.mp3">Stimme</a></td>
+<td>Carpodacus erythrinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Carpodacus%20erythrinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gartenbaumläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Boomkruiper1reversed.jpg/200px-Boomkruiper1reversed.jpg"></td>
+<td property="soundfile"><a href="sounds/Certhia%20brachydactyla.mp3">Stimme</a></td>
+<td>Certhia brachydactyla</td>
+<td><a href="http://de.wikipedia.org/wiki/Certhia%20brachydactyla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldbaumläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Certhia_familiaris_01.jpg/200px-Certhia_familiaris_01.jpg"></td>
+<td property="soundfile"><a href="sounds/Certhia%20familiaris.mp3">Stimme</a></td>
+<td>Certhia familiaris</td>
+<td><a href="http://de.wikipedia.org/wiki/Certhia%20familiaris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rothirsch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/200px-Red_deer_stag_2009_denmark.jpg"></td>
+<td property="soundfile"><a href="sounds/Cervus%20elaphus.mp3">Stimme</a></td>
+<td>Cervus elaphus</td>
+<td><a href="http://de.wikipedia.org/wiki/Cervus%20elaphus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Flussregenpfeifer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Charadrius_dubius_-_Laem_Pak_Bia.jpg/200px-Charadrius_dubius_-_Laem_Pak_Bia.jpg"></td>
+<td property="soundfile"><a href="sounds/Charadrius%20dubius.mp3">Stimme</a></td>
+<td>Charadrius dubius</td>
+<td><a href="http://de.wikipedia.org/wiki/Charadrius%20dubius">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sandregenpfeifer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Charadrius_hiaticula_tundrae_Varanger.jpg/200px-Charadrius_hiaticula_tundrae_Varanger.jpg"></td>
+<td property="soundfile"><a href="sounds/Charadrius%20hiaticula.mp3">Stimme</a></td>
+<td>Charadrius hiaticula</td>
+<td><a href="http://de.wikipedia.org/wiki/Charadrius%20hiaticula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mornellregenpfeifer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Charadrius_morinellus_male.jpg/200px-Charadrius_morinellus_male.jpg"></td>
+<td property="soundfile"><a href="sounds/Charadrius%20morinellus.mp3">Stimme</a></td>
+<td>Charadrius morinellus</td>
+<td><a href="http://de.wikipedia.org/wiki/Charadrius%20morinellus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weißbart-Seeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chlidonias_hybrida_2_(Marek_Szczepanek).jpg/200px-Chlidonias_hybrida_2_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Chlidonias%20hybrida.mp3">Stimme</a></td>
+<td>Chlidonias hybrida</td>
+<td><a href="http://de.wikipedia.org/wiki/Chlidonias%20hybrida">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weißflügel-Seeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chlidonias_leucopterus_Mai_Po.jpg/200px-Chlidonias_leucopterus_Mai_Po.jpg"></td>
+<td property="soundfile"><a href="sounds/Chlidonias%20leucopterus.mp3">Stimme</a></td>
+<td>Chlidonias leucopterus</td>
+<td><a href="http://de.wikipedia.org/wiki/Chlidonias%20leucopterus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Trauerseeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chlidonias_niger.jpg/200px-Chlidonias_niger.jpg"></td>
+<td property="soundfile"><a href="sounds/Chlidonias%20niger.mp3">Stimme</a></td>
+<td>Chlidonias niger</td>
+<td><a href="http://de.wikipedia.org/wiki/Chlidonias%20niger">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Lachmöwe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chroicocephalus_ridibundus_(summer).jpg/200px-Chroicocephalus_ridibundus_(summer).jpg"></td>
+<td property="soundfile"><a href="sounds/Chroicocephalus%20ridibundus.mp3">Stimme</a></td>
+<td>Chroicocephalus ridibundus</td>
+<td><a href="http://de.wikipedia.org/wiki/Chroicocephalus%20ridibundus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weißstorch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ciconia_ciconia_-Mscichy,_Grajewo_County,_Poland-8.jpg/200px-Ciconia_ciconia_-Mscichy,_Grajewo_County,_Poland-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Ciconia%20ciconia.mp3">Stimme</a></td>
+<td>Ciconia ciconia</td>
+<td><a href="http://de.wikipedia.org/wiki/Ciconia%20ciconia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wasseramsel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cinclus_cinclus_-Kirkcudbright,_Scotland-8.jpg/200px-Cinclus_cinclus_-Kirkcudbright,_Scotland-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Cinclus%20cinclus.mp3">Stimme</a></td>
+<td>Cinclus cinclus</td>
+<td><a href="http://de.wikipedia.org/wiki/Cinclus%20cinclus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schlangenadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circaetus_gallicus_02.JPG/200px-Circaetus_gallicus_02.JPG"></td>
+<td property="soundfile"><a href="sounds/Circaetus%20gallicus.mp3">Stimme</a></td>
+<td>Circaetus gallicus</td>
+<td><a href="http://de.wikipedia.org/wiki/Circaetus%20gallicus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rohrweihe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rohrweihe.jpg/200px-Rohrweihe.jpg"></td>
+<td property="soundfile"><a href="sounds/Circus%20aeruginosus.mp3">Stimme</a></td>
+<td>Circus aeruginosus</td>
+<td><a href="http://de.wikipedia.org/wiki/Circus%20aeruginosus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kernbeißer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coccothraustes_coccothraustes.jpg/200px-Coccothraustes_coccothraustes.jpg"></td>
+<td property="soundfile"><a href="sounds/Coccothraustes%20coccothraustes.mp3">Stimme</a></td>
+<td>Coccothraustes coccothraustes</td>
+<td><a href="http://de.wikipedia.org/wiki/Coccothraustes%20coccothraustes">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Felsentaube</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wohlgen%C3%A4hrte_Stadttauben.jpg/200px-Wohlgen%C3%A4hrte_Stadttauben.jpg"></td>
+<td property="soundfile"><a href="sounds/Columba%20livia.mp3">Stimme</a></td>
+<td>Columba livia</td>
+<td><a href="http://de.wikipedia.org/wiki/Columba%20livia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Hohltaube</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Columba_oenas1.jpg/200px-Columba_oenas1.jpg"></td>
+<td property="soundfile"><a href="sounds/Columba%20oenas.mp3">Stimme</a></td>
+<td>Columba oenas</td>
+<td><a href="http://de.wikipedia.org/wiki/Columba%20oenas">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ringeltaube</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Columba_palumbus_-garden_post-8.jpg/200px-Columba_palumbus_-garden_post-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Columba%20palumbus.mp3">Stimme</a></td>
+<td>Columba palumbus</td>
+<td><a href="http://de.wikipedia.org/wiki/Columba%20palumbus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kolkrabe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Common_raven_by_David_Hofmann.jpg/200px-Common_raven_by_David_Hofmann.jpg"></td>
+<td property="soundfile"><a href="sounds/Corvus%20corax.mp3">Stimme</a></td>
+<td>Corvus corax</td>
+<td><a href="http://de.wikipedia.org/wiki/Corvus%20corax">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Nebelkrähe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Corvus_cornix_-perching-8.jpg/200px-Corvus_cornix_-perching-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Corvus%20cornix.mp3">Stimme</a></td>
+<td>Corvus cornix</td>
+<td><a href="http://de.wikipedia.org/wiki/Corvus%20cornix">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rabenkrähe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Corvus_corone_Rabenkr%C3%A4he_1.jpg/200px-Corvus_corone_Rabenkr%C3%A4he_1.jpg"></td>
+<td property="soundfile"><a href="sounds/Corvus%20corone.mp3">Stimme</a></td>
+<td>Corvus corone</td>
+<td><a href="http://de.wikipedia.org/wiki/Corvus%20corone">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Saatkrähe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Corvus_frugilegus_-Dartmoor,_Devon,_England-8.jpg/200px-Corvus_frugilegus_-Dartmoor,_Devon,_England-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Corvus%20frugilegus.mp3">Stimme</a></td>
+<td>Corvus frugilegus</td>
+<td><a href="http://de.wikipedia.org/wiki/Corvus%20frugilegus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Dohle</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Coloeus_monedula_-Ham_Common,_London_Borough_of_Richmond_upon_Thames,_England-8.jpg/200px-Coloeus_monedula_-Ham_Common,_London_Borough_of_Richmond_upon_Thames,_England-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Corvus%20monedula.mp3">Stimme</a></td>
+<td>Corvus monedula</td>
+<td><a href="http://de.wikipedia.org/wiki/Corvus%20monedula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wachtel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coturnix_coturnix_(Warsaw_zoo)-1.JPG/200px-Coturnix_coturnix_(Warsaw_zoo)-1.JPG"></td>
+<td property="soundfile"><a href="sounds/Coturnix%20coturnix.mp3">Stimme</a></td>
+<td>Coturnix coturnix</td>
+<td><a href="http://de.wikipedia.org/wiki/Coturnix%20coturnix">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wachtelkönig</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Corncrake2.jpg/200px-Corncrake2.jpg"></td>
+<td property="soundfile"><a href="sounds/Crex%20crex.mp3">Stimme</a></td>
+<td>Crex crex</td>
+<td><a href="http://de.wikipedia.org/wiki/Crex%20crex">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kuckuck</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0791_cropped.jpg/200px-Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0791_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Cuculus%20canorus.mp3">Stimme</a></td>
+<td>Cuculus canorus</td>
+<td><a href="http://de.wikipedia.org/wiki/Cuculus%20canorus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Blaumeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ParusCaeruleus.jpg/200px-ParusCaeruleus.jpg"></td>
+<td property="soundfile"><a href="sounds/Cyanistes%20caeruleus.mp3">Stimme</a></td>
+<td>Cyanistes caeruleus</td>
+<td><a href="http://de.wikipedia.org/wiki/Cyanistes%20caeruleus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Singschwan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Singschwan.jpg/200px-Singschwan.jpg"></td>
+<td property="soundfile"><a href="sounds/Cygnus%20cygnus.mp3">Stimme</a></td>
+<td>Cygnus cygnus</td>
+<td><a href="http://de.wikipedia.org/wiki/Cygnus%20cygnus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Höckerschwan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mute_Swan_Emsworth2.JPG/200px-Mute_Swan_Emsworth2.JPG"></td>
+<td property="soundfile"><a href="sounds/Cygnus%20olor.mp3">Stimme</a></td>
+<td>Cygnus olor</td>
+<td><a href="http://de.wikipedia.org/wiki/Cygnus%20olor">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Damhirsch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/200px-Fallow_deer_in_field.jpg"></td>
+<td property="soundfile"><a href="sounds/Dama%20dama.mp3">Stimme</a></td>
+<td>Dama dama</td>
+<td><a href="http://de.wikipedia.org/wiki/Dama%20dama">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mehlschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Delichon_urbicum_-Iceland_-flying-8.jpg/200px-Delichon_urbicum_-Iceland_-flying-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Delichon%20urbicum.mp3">Stimme</a></td>
+<td>Delichon urbicum</td>
+<td><a href="http://de.wikipedia.org/wiki/Delichon%20urbicum">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Buntspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buntspecht_Dendrocopos_major-2.jpg/200px-Buntspecht_Dendrocopos_major-2.jpg"></td>
+<td property="soundfile"><a href="sounds/Dendrocopos%20major.mp3">Stimme</a></td>
+<td>Dendrocopos major</td>
+<td><a href="http://de.wikipedia.org/wiki/Dendrocopos%20major">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mittelspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dendrocopos_medius_(Marek_Szczepanek).jpg/200px-Dendrocopos_medius_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Dendrocopos%20medius.mp3">Stimme</a></td>
+<td>Dendrocopos medius</td>
+<td><a href="http://de.wikipedia.org/wiki/Dendrocopos%20medius">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kleinspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/PicoidesMinorBack.jpg/200px-PicoidesMinorBack.jpg"></td>
+<td property="soundfile"><a href="sounds/Dendrocopos%20minor.mp3">Stimme</a></td>
+<td>Dendrocopos minor</td>
+<td><a href="http://de.wikipedia.org/wiki/Dendrocopos%20minor">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schwarzspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BlackWoods.jpg/200px-BlackWoods.jpg"></td>
+<td property="soundfile"><a href="sounds/Dryocopus%20martius.mp3">Stimme</a></td>
+<td>Dryocopus martius</td>
+<td><a href="http://de.wikipedia.org/wiki/Dryocopus%20martius">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Seidenreiher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Little_Egret_Reflection.jpg/200px-Little_Egret_Reflection.jpg"></td>
+<td property="soundfile"><a href="sounds/Egretta%20garzetta.mp3">Stimme</a></td>
+<td>Egretta garzetta</td>
+<td><a href="http://de.wikipedia.org/wiki/Egretta%20garzetta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weidenammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/EmberizaAureolaF.jpg/200px-EmberizaAureolaF.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20aureola.mp3">Stimme</a></td>
+<td>Emberiza aureola</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20aureola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grauammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emberiza_calandra_-Jardin_des_Plantes,_Paris,_France-8.jpg/200px-Emberiza_calandra_-Jardin_des_Plantes,_Paris,_France-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20calandra.mp3">Stimme</a></td>
+<td>Emberiza calandra</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20calandra">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zaunammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cirl_bunting_cropped.jpg/200px-Cirl_bunting_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20cirlus.mp3">Stimme</a></td>
+<td>Emberiza cirlus</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20cirlus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Goldammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Emberiza_citrinella_-New_Zealand_-North_Island-8.jpg/200px-Emberiza_citrinella_-New_Zealand_-North_Island-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20citrinella.mp3">Stimme</a></td>
+<td>Emberiza citrinella</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20citrinella">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ortolan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ortolan.jpg/200px-Ortolan.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20hortulana.mp3">Stimme</a></td>
+<td>Emberiza hortulana</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20hortulana">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwergammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Little_Bunting.jpg/200px-Little_Bunting.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20pusilla.mp3">Stimme</a></td>
+<td>Emberiza pusilla</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20pusilla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Emberiza_rustica2.jpg/200px-Emberiza_rustica2.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20rustica.mp3">Stimme</a></td>
+<td>Emberiza rustica</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20rustica">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rohrammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Reed_Bunting_male_and_female.jpg/200px-Reed_Bunting_male_and_female.jpg"></td>
+<td property="soundfile"><a href="sounds/Emberiza%20schoeniclus.mp3">Stimme</a></td>
+<td>Emberiza schoeniclus</td>
+<td><a href="http://de.wikipedia.org/wiki/Emberiza%20schoeniclus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ohrenlerche</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shore_Lark.jpg/200px-Shore_Lark.jpg"></td>
+<td property="soundfile"><a href="sounds/Eremophila%20alpestris.mp3">Stimme</a></td>
+<td>Eremophila alpestris</td>
+<td><a href="http://de.wikipedia.org/wiki/Eremophila%20alpestris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Europäischer Igel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/West_European_Hedgehog_(Erinaceus_europaeus)2.jpg/200px-West_European_Hedgehog_(Erinaceus_europaeus)2.jpg"></td>
+<td property="soundfile"><a href="sounds/Erinaceus%20europaeus.mp3">Stimme</a></td>
+<td>Erinaceus europaeus</td>
+<td><a href="http://de.wikipedia.org/wiki/Erinaceus%20europaeus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotkehlchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rouge_gorge_familier_-_crop_(WB_correction).jpg/200px-Rouge_gorge_familier_-_crop_(WB_correction).jpg"></td>
+<td property="soundfile"><a href="sounds/Erithacus%20rubecula.mp3">Stimme</a></td>
+<td>Erithacus rubecula</td>
+<td><a href="http://de.wikipedia.org/wiki/Erithacus%20rubecula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Würgfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_(Marek_Szczepanek).jpg/200px-Falco_cherrug_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20cherrug.mp3">Stimme</a></td>
+<td>Falco cherrug</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20cherrug">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wanderfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falco_peregrinus_-Nova_Scotia,_Canada_-eating-8.jpg/200px-Falco_peregrinus_-Nova_Scotia,_Canada_-eating-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20peregrinus.mp3">Stimme</a></td>
+<td>Falco peregrinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20peregrinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gerfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Falco_rusticolus_white_cropped.jpg/200px-Falco_rusticolus_white_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20rusticolus.mp3">Stimme</a></td>
+<td>Falco rusticolus</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20rusticolus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Baumfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Falco_subbuteo_NAUMANN.jpg/200px-Falco_subbuteo_NAUMANN.jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20subbuteo.mp3">Stimme</a></td>
+<td>Falco subbuteo</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20subbuteo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Turmfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/200px-Common_kestrel_falco_tinnunculus.jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20tinnunculus.mp3">Stimme</a></td>
+<td>Falco tinnunculus</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20tinnunculus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotfußfalke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Falco_vespertinus_NAUMANN.jpg/200px-Falco_vespertinus_NAUMANN.jpg"></td>
+<td property="soundfile"><a href="sounds/Falco%20vespertinus.mp3">Stimme</a></td>
+<td>Falco vespertinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Falco%20vespertinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wildkatze</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wildcat_at_British_Wildlife_Centre.jpg/200px-Wildcat_at_British_Wildlife_Centre.jpg"></td>
+<td property="soundfile"><a href="sounds/Felis%20silvestris.mp3">Stimme</a></td>
+<td>Felis silvestris</td>
+<td><a href="http://de.wikipedia.org/wiki/Felis%20silvestris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Halsbandschnäpper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mucho%C5%82%C3%B3wka_bia%C5%82oszyja_(samiec).jpg/200px-Mucho%C5%82%C3%B3wka_bia%C5%82oszyja_(samiec).jpg"></td>
+<td property="soundfile"><a href="sounds/Ficedula%20albicollis.mp3">Stimme</a></td>
+<td>Ficedula albicollis</td>
+<td><a href="http://de.wikipedia.org/wiki/Ficedula%20albicollis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Trauerschnäpper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg/200px-Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg"></td>
+<td property="soundfile"><a href="sounds/Ficedula%20hypoleuca.mp3">Stimme</a></td>
+<td>Ficedula hypoleuca</td>
+<td><a href="http://de.wikipedia.org/wiki/Ficedula%20hypoleuca">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwergschnäpper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Red-breasted_Flycatcher.jpg/200px-Red-breasted_Flycatcher.jpg"></td>
+<td property="soundfile"><a href="sounds/Ficedula%20parva.mp3">Stimme</a></td>
+<td>Ficedula parva</td>
+<td><a href="http://de.wikipedia.org/wiki/Ficedula%20parva">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Buchfink</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chaffinch_(Fringilla_coelebs).jpg/200px-Chaffinch_(Fringilla_coelebs).jpg"></td>
+<td property="soundfile"><a href="sounds/Fringilla%20coelebs.mp3">Stimme</a></td>
+<td>Fringilla coelebs</td>
+<td><a href="http://de.wikipedia.org/wiki/Fringilla%20coelebs">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bergfink</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fringilla_montifringilla_2_(Marek_Szczepanek).jpg/200px-Fringilla_montifringilla_2_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Fringilla%20montifringilla.mp3">Stimme</a></td>
+<td>Fringilla montifringilla</td>
+<td><a href="http://de.wikipedia.org/wiki/Fringilla%20montifringilla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Blässhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eurasian_Coot.jpg/200px-Eurasian_Coot.jpg"></td>
+<td property="soundfile"><a href="sounds/Fulica%20atra.mp3">Stimme</a></td>
+<td>Fulica atra</td>
+<td><a href="http://de.wikipedia.org/wiki/Fulica%20atra">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Haubenlerche</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Crested_Lark_(Galerida_cristata)_at_Sultanpur_I_Picture_118.jpg/200px-Crested_Lark_(Galerida_cristata)_at_Sultanpur_I_Picture_118.jpg"></td>
+<td property="soundfile"><a href="sounds/Galerida%20cristata.mp3">Stimme</a></td>
+<td>Galerida cristata</td>
+<td><a href="http://de.wikipedia.org/wiki/Galerida%20cristata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bekassine</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gallinago_gallinago_a1.JPG/200px-Gallinago_gallinago_a1.JPG"></td>
+<td property="soundfile"><a href="sounds/Gallinago%20gallinago.mp3">Stimme</a></td>
+<td>Gallinago gallinago</td>
+<td><a href="http://de.wikipedia.org/wiki/Gallinago%20gallinago">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Teichhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Common_Moorhen_(Gallinula_chloropus)_in_a_Nelumbo_nucifera_(Indian_Lotus)_pond_W_IMG_8779.jpg/200px-Common_Moorhen_(Gallinula_chloropus)_in_a_Nelumbo_nucifera_(Indian_Lotus)_pond_W_IMG_8779.jpg"></td>
+<td property="soundfile"><a href="sounds/Gallinula%20chloropus.mp3">Stimme</a></td>
+<td>Gallinula chloropus</td>
+<td><a href="http://de.wikipedia.org/wiki/Gallinula%20chloropus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Eichelhäher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/200px-Garrulus_glandarius_1_Luc_Viatour.jpg"></td>
+<td property="soundfile"><a href="sounds/Garrulus%20glandarius.mp3">Stimme</a></td>
+<td>Garrulus glandarius</td>
+<td><a href="http://de.wikipedia.org/wiki/Garrulus%20glandarius">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Prachttaucher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Plongeon_arctique_nid.jpg/200px-Plongeon_arctique_nid.jpg"></td>
+<td property="soundfile"><a href="sounds/Gavia%20arctica.mp3">Stimme</a></td>
+<td>Gavia arctica</td>
+<td><a href="http://de.wikipedia.org/wiki/Gavia%20arctica">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldrapp</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Waldrapp_Geronticus_eremita.jpg/200px-Waldrapp_Geronticus_eremita.jpg"></td>
+<td property="soundfile"><a href="sounds/Geronticus%20eremita.mp3">Stimme</a></td>
+<td>Geronticus eremita</td>
+<td><a href="http://de.wikipedia.org/wiki/Geronticus%20eremita">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sperlingskauz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Glaucidium_passerinum_am3.jpg/200px-Glaucidium_passerinum_am3.jpg"></td>
+<td property="soundfile"><a href="sounds/Glaucidium%20passerinum.mp3">Stimme</a></td>
+<td>Glaucidium passerinum</td>
+<td><a href="http://de.wikipedia.org/wiki/Glaucidium%20passerinum">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kranich</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Grus_grus_1_(Marek_Szczepanek).jpg/200px-Grus_grus_1_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Grus%20grus.mp3">Stimme</a></td>
+<td>Grus grus</td>
+<td><a href="http://de.wikipedia.org/wiki/Grus%20grus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Jungfernkranich</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Demoisselle_Crane.jpg/200px-Demoisselle_Crane.jpg"></td>
+<td property="soundfile"><a href="sounds/Grus%20virgo.mp3">Stimme</a></td>
+<td>Grus virgo</td>
+<td><a href="http://de.wikipedia.org/wiki/Grus%20virgo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bartgeier</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg/200px-Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg"></td>
+<td property="soundfile"><a href="sounds/Gypaetus%20barbatus.mp3">Stimme</a></td>
+<td>Gypaetus barbatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Gypaetus%20barbatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Austernfischer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haematopus_ostralegus_Norway.jpg/200px-Haematopus_ostralegus_Norway.jpg"></td>
+<td property="soundfile"><a href="sounds/Haematopus%20ostralegus.mp3">Stimme</a></td>
+<td>Haematopus ostralegus</td>
+<td><a href="http://de.wikipedia.org/wiki/Haematopus%20ostralegus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Seeadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Haliaeetus_albicilla_-captive-8a.jpg/200px-Haliaeetus_albicilla_-captive-8a.jpg"></td>
+<td property="soundfile"><a href="sounds/Haliaeetus%20albicilla.mp3">Stimme</a></td>
+<td>Haliaeetus albicilla</td>
+<td><a href="http://de.wikipedia.org/wiki/Haliaeetus%20albicilla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Stelzenläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Himantopus_himantopus_-_Pak_Thale.jpg/200px-Himantopus_himantopus_-_Pak_Thale.jpg"></td>
+<td property="soundfile"><a href="sounds/Himantopus%20himantopus.mp3">Stimme</a></td>
+<td>Himantopus himantopus</td>
+<td><a href="http://de.wikipedia.org/wiki/Himantopus%20himantopus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gelbspötter</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hippolais_icterina2.jpg/200px-Hippolais_icterina2.jpg"></td>
+<td property="soundfile"><a href="sounds/Hippolais%20icterina.mp3">Stimme</a></td>
+<td>Hippolais icterina</td>
+<td><a href="http://de.wikipedia.org/wiki/Hippolais%20icterina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Orpheusspötter</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hippolais_polyglotta.jpg/200px-Hippolais_polyglotta.jpg"></td>
+<td property="soundfile"><a href="sounds/Hippolais%20polyglotta.mp3">Stimme</a></td>
+<td>Hippolais polyglotta</td>
+<td><a href="http://de.wikipedia.org/wiki/Hippolais%20polyglotta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rauchschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/200px-Landsvale.jpg"></td>
+<td property="soundfile"><a href="sounds/Hirundo%20rustica.mp3">Stimme</a></td>
+<td>Hirundo rustica</td>
+<td><a href="http://de.wikipedia.org/wiki/Hirundo%20rustica">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Raubseeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/200px-Sterna-caspia-010.jpg"></td>
+<td property="soundfile"><a href="sounds/Hydroprogne%20caspia.mp3">Stimme</a></td>
+<td>Hydroprogne caspia</td>
+<td><a href="http://de.wikipedia.org/wiki/Hydroprogne%20caspia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Europäischer Laubfrosch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hyla_arborea,_juv_2.jpg/200px-Hyla_arborea,_juv_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Hyla%20arborea.mp3">Stimme</a></td>
+<td>Hyla arborea</td>
+<td><a href="http://de.wikipedia.org/wiki/Hyla%20arborea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwergdommel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ixobrychus_minutus_-Barcelona,_Spain-8.jpg/200px-Ixobrychus_minutus_-Barcelona,_Spain-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Ixobrychus%20minutus.mp3">Stimme</a></td>
+<td>Ixobrychus minutus</td>
+<td><a href="http://de.wikipedia.org/wiki/Ixobrychus%20minutus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wendehals</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jynx_torquilla_vlaskop_cropped.jpg/200px-Jynx_torquilla_vlaskop_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Jynx%20torquilla.mp3">Stimme</a></td>
+<td>Jynx torquilla</td>
+<td><a href="http://de.wikipedia.org/wiki/Jynx%20torquilla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Alpenschneehuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rock_Ptarmigan_(Lagopus_Muta).jpg/200px-Rock_Ptarmigan_(Lagopus_Muta).jpg"></td>
+<td property="soundfile"><a href="sounds/Lagopus%20muta.mp3">Stimme</a></td>
+<td>Lagopus muta</td>
+<td><a href="http://de.wikipedia.org/wiki/Lagopus%20muta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Neuntöter</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lancol.jpg/200px-Lancol.jpg"></td>
+<td property="soundfile"><a href="sounds/Lanius%20collurio.mp3">Stimme</a></td>
+<td>Lanius collurio</td>
+<td><a href="http://de.wikipedia.org/wiki/Lanius%20collurio">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Raubwürger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lanius_excubitor_1_(Marek_Szczepanek).jpg/200px-Lanius_excubitor_1_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Lanius%20excubitor.mp3">Stimme</a></td>
+<td>Lanius excubitor</td>
+<td><a href="http://de.wikipedia.org/wiki/Lanius%20excubitor">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Silbermöwe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Larus_argentatus01.jpg/200px-Larus_argentatus01.jpg"></td>
+<td property="soundfile"><a href="sounds/Larus%20argentatus.mp3">Stimme</a></td>
+<td>Larus argentatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Larus%20argentatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sturmmöwe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Larus_canus1.jpg/200px-Larus_canus1.jpg"></td>
+<td property="soundfile"><a href="sounds/Larus%20canus.mp3">Stimme</a></td>
+<td>Larus canus</td>
+<td><a href="http://de.wikipedia.org/wiki/Larus%20canus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mantelmöwe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Great_Black-backed_Gull_Larus_marinus.jpg/200px-Great_Black-backed_Gull_Larus_marinus.jpg"></td>
+<td property="soundfile"><a href="sounds/Larus%20marinus.mp3">Stimme</a></td>
+<td>Larus marinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Larus%20marinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Uferschnepfe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Black-tailed_Godwit_cropped.jpg/200px-Black-tailed_Godwit_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Limosa%20limosa.mp3">Stimme</a></td>
+<td>Limosa limosa</td>
+<td><a href="http://de.wikipedia.org/wiki/Limosa%20limosa">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schlagschwirl</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flodsangare.jpg/200px-Flodsangare.jpg"></td>
+<td property="soundfile"><a href="sounds/Locustella%20fluviatilis.mp3">Stimme</a></td>
+<td>Locustella fluviatilis</td>
+<td><a href="http://de.wikipedia.org/wiki/Locustella%20fluviatilis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rohrschwirl</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Locustellaluscinioides.jpg/200px-Locustellaluscinioides.jpg"></td>
+<td property="soundfile"><a href="sounds/Locustella%20luscinioides.mp3">Stimme</a></td>
+<td>Locustella luscinioides</td>
+<td><a href="http://de.wikipedia.org/wiki/Locustella%20luscinioides">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Feldschwirl</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grashoppsangare-070512.jpg/200px-Grashoppsangare-070512.jpg"></td>
+<td property="soundfile"><a href="sounds/Locustella%20naevia.mp3">Stimme</a></td>
+<td>Locustella naevia</td>
+<td><a href="http://de.wikipedia.org/wiki/Locustella%20naevia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Haubenmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lophophanes_cristatus_-Aviemore,_Scotland-8_(2).jpg/200px-Lophophanes_cristatus_-Aviemore,_Scotland-8_(2).jpg"></td>
+<td property="soundfile"><a href="sounds/Lophophanes%20cristatus.mp3">Stimme</a></td>
+<td>Lophophanes cristatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Lophophanes%20cristatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Fichtenkreuzschnabel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Red_Crossbills_(Male).jpg/200px-Red_Crossbills_(Male).jpg"></td>
+<td property="soundfile"><a href="sounds/Loxia%20curvirostra.mp3">Stimme</a></td>
+<td>Loxia curvirostra</td>
+<td><a href="http://de.wikipedia.org/wiki/Loxia%20curvirostra">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kiefernkreuzschnabel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Loxia_pytyopsittacus071021.jpg/200px-Loxia_pytyopsittacus071021.jpg"></td>
+<td property="soundfile"><a href="sounds/Loxia%20pytyopsittacus.mp3">Stimme</a></td>
+<td>Loxia pytyopsittacus</td>
+<td><a href="http://de.wikipedia.org/wiki/Loxia%20pytyopsittacus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Heidelerche</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lullula_arborea_Rodrigo)de_Almeida.jpg/200px-Lullula_arborea_Rodrigo)de_Almeida.jpg"></td>
+<td property="soundfile"><a href="sounds/Lullula%20arborea.mp3">Stimme</a></td>
+<td>Lullula arborea</td>
+<td><a href="http://de.wikipedia.org/wiki/Lullula%20arborea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rubinkehlchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Luscinia_calliope_-_Pak_Chong_2.jpg/200px-Luscinia_calliope_-_Pak_Chong_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Luscinia%20calliope.mp3">Stimme</a></td>
+<td>Luscinia calliope</td>
+<td><a href="http://de.wikipedia.org/wiki/Luscinia%20calliope">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sprosser</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luscinia_luscinia_NAUMANN.jpg/200px-Luscinia_luscinia_NAUMANN.jpg"></td>
+<td property="soundfile"><a href="sounds/Luscinia%20luscinia.mp3">Stimme</a></td>
+<td>Luscinia luscinia</td>
+<td><a href="http://de.wikipedia.org/wiki/Luscinia%20luscinia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Nachtigall</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nachtigall_(Luscinia_megarhynchos)-2.jpg/200px-Nachtigall_(Luscinia_megarhynchos)-2.jpg"></td>
+<td property="soundfile"><a href="sounds/Luscinia%20megarhynchos.mp3">Stimme</a></td>
+<td>Luscinia megarhynchos</td>
+<td><a href="http://de.wikipedia.org/wiki/Luscinia%20megarhynchos">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Blaukehlchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luscinia_svecica_volgae.jpg/200px-Luscinia_svecica_volgae.jpg"></td>
+<td property="soundfile"><a href="sounds/Luscinia%20svecica.mp3">Stimme</a></td>
+<td>Luscinia svecica</td>
+<td><a href="http://de.wikipedia.org/wiki/Luscinia%20svecica">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Alpenmurmeltier</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Marmota_marmota_Alpes2.jpg/200px-Marmota_marmota_Alpes2.jpg"></td>
+<td property="soundfile"><a href="sounds/Marmota%20marmota.mp3">Stimme</a></td>
+<td>Marmota marmota</td>
+<td><a href="http://de.wikipedia.org/wiki/Marmota%20marmota">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinmarder</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Steinmarder_(cropped).jpg/200px-Steinmarder_(cropped).jpg"></td>
+<td property="soundfile"><a href="sounds/Martes%20foina.mp3">Stimme</a></td>
+<td>Martes foina</td>
+<td><a href="http://de.wikipedia.org/wiki/Martes%20foina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Baummarder</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Martes_martes_crop.jpg/200px-Martes_martes_crop.jpg"></td>
+<td property="soundfile"><a href="sounds/Martes%20martes.mp3">Stimme</a></td>
+<td>Martes martes</td>
+<td><a href="http://de.wikipedia.org/wiki/Martes%20martes">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mittelsäger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mergus_serrator_-New_Jersey_-USA_-winter-8.jpg/200px-Mergus_serrator_-New_Jersey_-USA_-winter-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Mergus%20serrator.mp3">Stimme</a></td>
+<td>Mergus serrator</td>
+<td><a href="http://de.wikipedia.org/wiki/Mergus%20serrator">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bienenfresser</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%C5%9Eahl%C3%BBr.jpg/200px-%C5%9Eahl%C3%BBr.jpg"></td>
+<td property="soundfile"><a href="sounds/Merops%20apiaster.mp3">Stimme</a></td>
+<td>Merops apiaster</td>
+<td><a href="http://de.wikipedia.org/wiki/Merops%20apiaster">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotmilan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R(ThKraft).jpg/200px-Milvus_milvus_R(ThKraft).jpg"></td>
+<td property="soundfile"><a href="sounds/Milvus%20milvus.mp3">Stimme</a></td>
+<td>Milvus milvus</td>
+<td><a href="http://de.wikipedia.org/wiki/Milvus%20milvus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinrötel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monticola_saxatilis_NAUMANN.jpg/200px-Monticola_saxatilis_NAUMANN.jpg"></td>
+<td property="soundfile"><a href="sounds/Monticola%20saxatilis.mp3">Stimme</a></td>
+<td>Monticola saxatilis</td>
+<td><a href="http://de.wikipedia.org/wiki/Monticola%20saxatilis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schneesperling</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Snowfinch.jpg/200px-Snowfinch.jpg"></td>
+<td property="soundfile"><a href="sounds/Montifringilla%20nivalis.mp3">Stimme</a></td>
+<td>Montifringilla nivalis</td>
+<td><a href="http://de.wikipedia.org/wiki/Montifringilla%20nivalis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Basstölpel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Northern_Gannet_2006_2.jpg/200px-Northern_Gannet_2006_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Morus%20bassanus.mp3">Stimme</a></td>
+<td>Morus bassanus</td>
+<td><a href="http://de.wikipedia.org/wiki/Morus%20bassanus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bachstelze</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/White-Wagtail.jpg/200px-White-Wagtail.jpg"></td>
+<td property="soundfile"><a href="sounds/Motacilla%20alba.mp3">Stimme</a></td>
+<td>Motacilla alba</td>
+<td><a href="http://de.wikipedia.org/wiki/Motacilla%20alba">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gebirgsstelze</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Grey_Wagtail.jpg/200px-Grey_Wagtail.jpg"></td>
+<td property="soundfile"><a href="sounds/Motacilla%20cinerea.mp3">Stimme</a></td>
+<td>Motacilla cinerea</td>
+<td><a href="http://de.wikipedia.org/wiki/Motacilla%20cinerea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zitronenstelze</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Citrine_Wagtail_(Motacilla_citreola)-_Breeding_Male_of_calcarata_race_at_Bharatpur_I_IMG_5752.jpg/200px-Citrine_Wagtail_(Motacilla_citreola)-_Breeding_Male_of_calcarata_race_at_Bharatpur_I_IMG_5752.jpg"></td>
+<td property="soundfile"><a href="sounds/Motacilla%20citreola.mp3">Stimme</a></td>
+<td>Motacilla citreola</td>
+<td><a href="http://de.wikipedia.org/wiki/Motacilla%20citreola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schafstelze</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yellow_wagtail.jpg/200px-Yellow_wagtail.jpg"></td>
+<td property="soundfile"><a href="sounds/Motacilla%20flava.mp3">Stimme</a></td>
+<td>Motacilla flava</td>
+<td><a href="http://de.wikipedia.org/wiki/Motacilla%20flava">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grauschnäpper</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SpottedFlycatcheronfence.jpg/200px-SpottedFlycatcheronfence.jpg"></td>
+<td property="soundfile"><a href="sounds/Muscicapa%20striata.mp3">Stimme</a></td>
+<td>Muscicapa striata</td>
+<td><a href="http://de.wikipedia.org/wiki/Muscicapa%20striata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Tannenhäher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spotted_Nutcracker.jpg/200px-Spotted_Nutcracker.jpg"></td>
+<td property="soundfile"><a href="sounds/Nucifraga%20caryocatactes.mp3">Stimme</a></td>
+<td>Nucifraga caryocatactes</td>
+<td><a href="http://de.wikipedia.org/wiki/Nucifraga%20caryocatactes">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Großer Brachvogel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Eurasian_Curlew.jpg/200px-Eurasian_Curlew.jpg"></td>
+<td property="soundfile"><a href="sounds/Numenius%20arquata.mp3">Stimme</a></td>
+<td>Numenius arquata</td>
+<td><a href="http://de.wikipedia.org/wiki/Numenius%20arquata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Regenbrachvogel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Whimbrel_Numenius_phaeopus.jpg/200px-Whimbrel_Numenius_phaeopus.jpg"></td>
+<td property="soundfile"><a href="sounds/Numenius%20phaeopus.mp3">Stimme</a></td>
+<td>Numenius phaeopus</td>
+<td><a href="http://de.wikipedia.org/wiki/Numenius%20phaeopus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Nachtreiher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stuffed_Night_Heron.JPG/200px-Stuffed_Night_Heron.JPG"></td>
+<td property="soundfile"><a href="sounds/Nycticorax%20nycticorax.mp3">Stimme</a></td>
+<td>Nycticorax nycticorax</td>
+<td><a href="http://de.wikipedia.org/wiki/Nycticorax%20nycticorax">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Isabellsteinschmätzer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Isabelline_wheatear_(Oenanthe_isabellina)_male,_non-breeding.jpg/200px-Isabelline_wheatear_(Oenanthe_isabellina)_male,_non-breeding.jpg"></td>
+<td property="soundfile"><a href="sounds/Oenanthe%20isabellina.mp3">Stimme</a></td>
+<td>Oenanthe isabellina</td>
+<td><a href="http://de.wikipedia.org/wiki/Oenanthe%20isabellina">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Steinschmätzer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Northern_wheatear_male09.JPG/200px-Northern_wheatear_male09.JPG"></td>
+<td property="soundfile"><a href="sounds/Oenanthe%20oenanthe.mp3">Stimme</a></td>
+<td>Oenanthe oenanthe</td>
+<td><a href="http://de.wikipedia.org/wiki/Oenanthe%20oenanthe">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Pirol</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oriole_2.jpg/200px-Oriole_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Oriolus%20oriolus.mp3">Stimme</a></td>
+<td>Oriolus oriolus</td>
+<td><a href="http://de.wikipedia.org/wiki/Oriolus%20oriolus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Großtrappe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Greatbustard.jpg/200px-Greatbustard.jpg"></td>
+<td property="soundfile"><a href="sounds/Otis%20tarda.mp3">Stimme</a></td>
+<td>Otis tarda</td>
+<td><a href="http://de.wikipedia.org/wiki/Otis%20tarda">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwergohreule</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zwergohreulen.jpg/200px-Zwergohreulen.jpg"></td>
+<td property="soundfile"><a href="sounds/Otus%20scops.mp3">Stimme</a></td>
+<td>Otus scops</td>
+<td><a href="http://de.wikipedia.org/wiki/Otus%20scops">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mufflon</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Argali.jpg/200px-Argali.jpg"></td>
+<td property="soundfile"><a href="sounds/Ovis%20ammon.mp3">Stimme</a></td>
+<td>Ovis ammon</td>
+<td><a href="http://de.wikipedia.org/wiki/Ovis%20ammon">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Fischadler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2010-kabini-osprey.jpg/200px-2010-kabini-osprey.jpg"></td>
+<td property="soundfile"><a href="sounds/Pandion%20haliaetus.mp3">Stimme</a></td>
+<td>Pandion haliaetus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pandion%20haliaetus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bartmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panurus_biarmicus_2_(Martin_Mecnarowski).jpg/200px-Panurus_biarmicus_2_(Martin_Mecnarowski).jpg"></td>
+<td property="soundfile"><a href="sounds/Panurus%20biarmicus.mp3">Stimme</a></td>
+<td>Panurus biarmicus</td>
+<td><a href="http://de.wikipedia.org/wiki/Panurus%20biarmicus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kohlmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Parus_major_2_Luc_Viatour.jpg/200px-Parus_major_2_Luc_Viatour.jpg"></td>
+<td property="soundfile"><a href="sounds/Parus%20major.mp3">Stimme</a></td>
+<td>Parus major</td>
+<td><a href="http://de.wikipedia.org/wiki/Parus%20major">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Feldsperling</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tree_Sparrow_Japan_Flip.jpg/200px-Tree_Sparrow_Japan_Flip.jpg"></td>
+<td property="soundfile"><a href="sounds/Passer%20montanus.mp3">Stimme</a></td>
+<td>Passer montanus</td>
+<td><a href="http://de.wikipedia.org/wiki/Passer%20montanus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rosapelikan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Whitepelican_edit_shadowlift.jpg/200px-Whitepelican_edit_shadowlift.jpg"></td>
+<td property="soundfile"><a href="sounds/Pelecanus%20onocrotalus.mp3">Stimme</a></td>
+<td>Pelecanus onocrotalus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pelecanus%20onocrotalus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Knoblauchkröte</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pelobates_fuscus_fuscus.jpg/200px-Pelobates_fuscus_fuscus.jpg"></td>
+<td property="soundfile"><a href="sounds/Pelobates%20fuscus.mp3">Stimme</a></td>
+<td>Pelobates fuscus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pelobates%20fuscus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Seefrosch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/RanaRidibundaFemale.jpg/200px-RanaRidibundaFemale.jpg"></td>
+<td property="soundfile"><a href="sounds/Pelophylax%20ridibundus.mp3">Stimme</a></td>
+<td>Pelophylax ridibundus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pelophylax%20ridibundus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rebhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Perdix_perdix_(Marek_Szczepanek).jpg/200px-Perdix_perdix_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Perdix%20perdix.mp3">Stimme</a></td>
+<td>Perdix perdix</td>
+<td><a href="http://de.wikipedia.org/wiki/Perdix%20perdix">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Tannenmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coal_tit_UK09.JPG/200px-Coal_tit_UK09.JPG"></td>
+<td property="soundfile"><a href="sounds/Periparus%20ater.mp3">Stimme</a></td>
+<td>Periparus ater</td>
+<td><a href="http://de.wikipedia.org/wiki/Periparus%20ater">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wespenbussard</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pernis_apivorus_by_John_Gould_improved.jpg/200px-Pernis_apivorus_by_John_Gould_improved.jpg"></td>
+<td property="soundfile"><a href="sounds/Pernis%20apivorus.mp3">Stimme</a></td>
+<td>Pernis apivorus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pernis%20apivorus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kormoran</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Phalacrocorax_carbo_ja01.jpg/200px-Phalacrocorax_carbo_ja01.jpg"></td>
+<td property="soundfile"><a href="sounds/Phalacrocorax%20carbo.mp3">Stimme</a></td>
+<td>Phalacrocorax carbo</td>
+<td><a href="http://de.wikipedia.org/wiki/Phalacrocorax%20carbo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Thorshühnchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Phalaropus_fulicarius_10.jpg/200px-Phalaropus_fulicarius_10.jpg"></td>
+<td property="soundfile"><a href="sounds/Phalaropus%20fulicarius.mp3">Stimme</a></td>
+<td>Phalaropus fulicarius</td>
+<td><a href="http://de.wikipedia.org/wiki/Phalaropus%20fulicarius">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Jagdfasan</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phasianus_colchicus_2_tom_(Lukasz_Lukasik).jpg/200px-Phasianus_colchicus_2_tom_(Lukasz_Lukasik).jpg"></td>
+<td property="soundfile"><a href="sounds/Phasianus%20colchicus.mp3">Stimme</a></td>
+<td>Phasianus colchicus</td>
+<td><a href="http://de.wikipedia.org/wiki/Phasianus%20colchicus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Hausrotschwanz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/200px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg"></td>
+<td property="soundfile"><a href="sounds/Phoenicurus%20ochruros.mp3">Stimme</a></td>
+<td>Phoenicurus ochruros</td>
+<td><a href="http://de.wikipedia.org/wiki/Phoenicurus%20ochruros">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gartenrotschwanz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gekraagde_Roodstaart_20040627.JPG/200px-Gekraagde_Roodstaart_20040627.JPG"></td>
+<td property="soundfile"><a href="sounds/Phoenicurus%20phoenicurus.mp3">Stimme</a></td>
+<td>Phoenicurus phoenicurus</td>
+<td><a href="http://de.wikipedia.org/wiki/Phoenicurus%20phoenicurus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Berglaubsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Phybon.jpg/200px-Phybon.jpg"></td>
+<td property="soundfile"><a href="sounds/Phylloscopus%20bonelli.mp3">Stimme</a></td>
+<td>Phylloscopus bonelli</td>
+<td><a href="http://de.wikipedia.org/wiki/Phylloscopus%20bonelli">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zilpzalp, Weidenlaubsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Phylloscopus_collybita_(taxobox).jpg/200px-Phylloscopus_collybita_(taxobox).jpg"></td>
+<td property="soundfile"><a href="sounds/Phylloscopus%20collybita.mp3">Stimme</a></td>
+<td>Phylloscopus collybita</td>
+<td><a href="http://de.wikipedia.org/wiki/Phylloscopus%20collybita">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldlaubsänger</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg/200px-Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg"></td>
+<td property="soundfile"><a href="sounds/Phylloscopus%20sibilatrix.mp3">Stimme</a></td>
+<td>Phylloscopus sibilatrix</td>
+<td><a href="http://de.wikipedia.org/wiki/Phylloscopus%20sibilatrix">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Fitis</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg/200px-Willow_Warbler_Phylloscopus_trochilus.jpg"></td>
+<td property="soundfile"><a href="sounds/Phylloscopus%20trochilus.mp3">Stimme</a></td>
+<td>Phylloscopus trochilus</td>
+<td><a href="http://de.wikipedia.org/wiki/Phylloscopus%20trochilus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Elster</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pica_pica_-Helsinki,_Finland-8a.jpg/200px-Pica_pica_-Helsinki,_Finland-8a.jpg"></td>
+<td property="soundfile"><a href="sounds/Pica%20pica.mp3">Stimme</a></td>
+<td>Pica pica</td>
+<td><a href="http://de.wikipedia.org/wiki/Pica%20pica">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grauspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Picus_canus_2.jpg/200px-Picus_canus_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Picus%20canus.mp3">Stimme</a></td>
+<td>Picus canus</td>
+<td><a href="http://de.wikipedia.org/wiki/Picus%20canus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grünspecht</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RO_B_Carol_Park_green_woodpecker_crop.jpg/200px-RO_B_Carol_Park_green_woodpecker_crop.jpg"></td>
+<td property="soundfile"><a href="sounds/Picus%20viridis.mp3">Stimme</a></td>
+<td>Picus viridis</td>
+<td><a href="http://de.wikipedia.org/wiki/Picus%20viridis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Löffler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eurasian_Spoonbill.jpg/200px-Eurasian_Spoonbill.jpg"></td>
+<td property="soundfile"><a href="sounds/Platalea%20leucorodia.mp3">Stimme</a></td>
+<td>Platalea leucorodia</td>
+<td><a href="http://de.wikipedia.org/wiki/Platalea%20leucorodia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schneeammer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Plectrophenax_nivalis1.jpg/200px-Plectrophenax_nivalis1.jpg"></td>
+<td property="soundfile"><a href="sounds/Plectrophenax%20nivalis.mp3">Stimme</a></td>
+<td>Plectrophenax nivalis</td>
+<td><a href="http://de.wikipedia.org/wiki/Plectrophenax%20nivalis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sichler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_(aka)_background_blurred.jpg/200px-Plegadis_falcinellus_(aka)_background_blurred.jpg"></td>
+<td property="soundfile"><a href="sounds/Plegadis%20falcinellus.mp3">Stimme</a></td>
+<td>Plegadis falcinellus</td>
+<td><a href="http://de.wikipedia.org/wiki/Plegadis%20falcinellus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Goldregenpfeifer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rohkunborri_Pluvialis_Apricaria.jpg/200px-Rohkunborri_Pluvialis_Apricaria.jpg"></td>
+<td property="soundfile"><a href="sounds/Pluvialis%20apricaria.mp3">Stimme</a></td>
+<td>Pluvialis apricaria</td>
+<td><a href="http://de.wikipedia.org/wiki/Pluvialis%20apricaria">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Haubentaucher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Podiceps_cristatus_2_-_Lake_Dulverton.jpg/200px-Podiceps_cristatus_2_-_Lake_Dulverton.jpg"></td>
+<td property="soundfile"><a href="sounds/Podiceps%20cristatus.mp3">Stimme</a></td>
+<td>Podiceps cristatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Podiceps%20cristatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rothalstaucher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gr%C3%A8bejougrisparade.jpg/200px-Gr%C3%A8bejougrisparade.jpg"></td>
+<td property="soundfile"><a href="sounds/Podiceps%20grisegena.mp3">Stimme</a></td>
+<td>Podiceps grisegena</td>
+<td><a href="http://de.wikipedia.org/wiki/Podiceps%20grisegena">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weidenmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Parus_atricapillus_2_(Marek_Szczepanek).jpg/200px-Parus_atricapillus_2_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Poecile%20montanus.mp3">Stimme</a></td>
+<td>Poecile montanus</td>
+<td><a href="http://de.wikipedia.org/wiki/Poecile%20montanus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sumpfmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Parus_palustris02.jpg/200px-Parus_palustris02.jpg"></td>
+<td property="soundfile"><a href="sounds/Poecile%20palustris.mp3">Stimme</a></td>
+<td>Poecile palustris</td>
+<td><a href="http://de.wikipedia.org/wiki/Poecile%20palustris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kleines Sumpfhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Porzana_parva_Vlaskop_cropped.jpg/200px-Porzana_parva_Vlaskop_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Porzana%20parva.mp3">Stimme</a></td>
+<td>Porzana parva</td>
+<td><a href="http://de.wikipedia.org/wiki/Porzana%20parva">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Tüpfelsumpfhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Porzana_porzana_3_(Marek_Szczepanek).jpg/200px-Porzana_porzana_3_(Marek_Szczepanek).jpg"></td>
+<td property="soundfile"><a href="sounds/Porzana%20porzana.mp3">Stimme</a></td>
+<td>Porzana porzana</td>
+<td><a href="http://de.wikipedia.org/wiki/Porzana%20porzana">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Heckenbraunelle</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dunnock_crop2.jpg/200px-Dunnock_crop2.jpg"></td>
+<td property="soundfile"><a href="sounds/Prunella%20modularis.mp3">Stimme</a></td>
+<td>Prunella modularis</td>
+<td><a href="http://de.wikipedia.org/wiki/Prunella%20modularis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Halsbandsittich</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rose-ringed_Parakeets_(Male_&amp;_Female)-_During_Foreplay_at_Hodal_I_Picture_0034.jpg/200px-Rose-ringed_Parakeets_(Male_&amp;_Female)-_During_Foreplay_at_Hodal_I_Picture_0034.jpg"></td>
+<td property="soundfile"><a href="sounds/Psittacula%20krameri.mp3">Stimme</a></td>
+<td>Psittacula krameri</td>
+<td><a href="http://de.wikipedia.org/wiki/Psittacula%20krameri">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Alpendohle</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alpine_Chough_by_Jim_Higham.jpg/200px-Alpine_Chough_by_Jim_Higham.jpg"></td>
+<td property="soundfile"><a href="sounds/Pyrrhocorax%20graculus.mp3">Stimme</a></td>
+<td>Pyrrhocorax graculus</td>
+<td><a href="http://de.wikipedia.org/wiki/Pyrrhocorax%20graculus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Alpenkrähe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pyrrhocorax_pyrrhocorax_-standing-8.jpg/200px-Pyrrhocorax_pyrrhocorax_-standing-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Pyrrhocorax%20pyrrhocorax.mp3">Stimme</a></td>
+<td>Pyrrhocorax pyrrhocorax</td>
+<td><a href="http://de.wikipedia.org/wiki/Pyrrhocorax%20pyrrhocorax">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gimpel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhula_pyrrhula_-Lochwinnoch,_Renfrewshire,_Scotland-8.jpg/200px-Pyrrhula_pyrrhula_-Lochwinnoch,_Renfrewshire,_Scotland-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Pyrrhula%20pyrrhula.mp3">Stimme</a></td>
+<td>Pyrrhula pyrrhula</td>
+<td><a href="http://de.wikipedia.org/wiki/Pyrrhula%20pyrrhula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wasserralle</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ralaqu.jpg/200px-Ralaqu.jpg"></td>
+<td property="soundfile"><a href="sounds/Rallus%20aquaticus.mp3">Stimme</a></td>
+<td>Rallus aquaticus</td>
+<td><a href="http://de.wikipedia.org/wiki/Rallus%20aquaticus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Moorfrosch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/RanaArvalisFemale.jpg/200px-RanaArvalisFemale.jpg"></td>
+<td property="soundfile"><a href="sounds/Rana%20arvalis.mp3">Stimme</a></td>
+<td>Rana arvalis</td>
+<td><a href="http://de.wikipedia.org/wiki/Rana%20arvalis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grasfrosch</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/European_Common_Frog_Rana_temporaria.jpg/200px-European_Common_Frog_Rana_temporaria.jpg"></td>
+<td property="soundfile"><a href="sounds/Rana%20temporaria.mp3">Stimme</a></td>
+<td>Rana temporaria</td>
+<td><a href="http://de.wikipedia.org/wiki/Rana%20temporaria">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Säbelschnäbler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pied_Avocet_Recurvirostra_avosetta.jpg/200px-Pied_Avocet_Recurvirostra_avosetta.jpg"></td>
+<td property="soundfile"><a href="sounds/Recurvirostra%20avosetta.mp3">Stimme</a></td>
+<td>Recurvirostra avosetta</td>
+<td><a href="http://de.wikipedia.org/wiki/Recurvirostra%20avosetta">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wintergoldhähnchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Regulus_regulus_60North_cropped.jpg/200px-Regulus_regulus_60North_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Regulus%20regulus.mp3">Stimme</a></td>
+<td>Regulus regulus</td>
+<td><a href="http://de.wikipedia.org/wiki/Regulus%20regulus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Beutelmeise</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Remiz_pendulinus_-Estonia_-singing_by_partly_built_nest-8_cropped.jpg/200px-Remiz_pendulinus_-Estonia_-singing_by_partly_built_nest-8_cropped.jpg"></td>
+<td property="soundfile"><a href="sounds/Remiz%20pendulinus.mp3">Stimme</a></td>
+<td>Remiz pendulinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Remiz%20pendulinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Uferschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Riparia_riparia_-Markinch,_Fife,_Scotland_-flying-8-4c.jpg/200px-Riparia_riparia_-Markinch,_Fife,_Scotland_-flying-8-4c.jpg"></td>
+<td property="soundfile"><a href="sounds/Riparia%20riparia.mp3">Stimme</a></td>
+<td>Riparia riparia</td>
+<td><a href="http://de.wikipedia.org/wiki/Riparia%20riparia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Dreizehenmöwe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rissa_tridactyla_(Vard%C3%B8,_2012).jpg/200px-Rissa_tridactyla_(Vard%C3%B8,_2012).jpg"></td>
+<td property="soundfile"><a href="sounds/Rissa%20tridactyla.mp3">Stimme</a></td>
+<td>Rissa tridactyla</td>
+<td><a href="http://de.wikipedia.org/wiki/Rissa%20tridactyla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Braunkehlchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Saxicola_rubetra_-Belgium_-male-8.jpg/200px-Saxicola_rubetra_-Belgium_-male-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Saxicola%20rubetra.mp3">Stimme</a></td>
+<td>Saxicola rubetra</td>
+<td><a href="http://de.wikipedia.org/wiki/Saxicola%20rubetra">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schwarzkehlchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/European_Stonechat.jpg/200px-European_Stonechat.jpg"></td>
+<td property="soundfile"><a href="sounds/Saxicola%20rubicola.mp3">Stimme</a></td>
+<td>Saxicola rubicola</td>
+<td><a href="http://de.wikipedia.org/wiki/Saxicola%20rubicola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gemeines Eichhörnchen</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sciurus_vulgaris_-Helsinki,_Sweden_-snow-8.jpg/200px-Sciurus_vulgaris_-Helsinki,_Sweden_-snow-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Sciurus%20vulgaris.mp3">Stimme</a></td>
+<td>Sciurus vulgaris</td>
+<td><a href="http://de.wikipedia.org/wiki/Sciurus%20vulgaris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldschnepfe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Woodcock_earthworm.jpg/200px-Woodcock_earthworm.jpg"></td>
+<td property="soundfile"><a href="sounds/Scolopax%20rusticola.mp3">Stimme</a></td>
+<td>Scolopax rusticola</td>
+<td><a href="http://de.wikipedia.org/wiki/Scolopax%20rusticola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Girlitz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Serinus_serinus_(Madrid,_Spain)_002.jpg/200px-Serinus_serinus_(Madrid,_Spain)_002.jpg"></td>
+<td property="soundfile"><a href="sounds/Serinus%20serinus.mp3">Stimme</a></td>
+<td>Serinus serinus</td>
+<td><a href="http://de.wikipedia.org/wiki/Serinus%20serinus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kleiber</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sitta_europaea_Luc_Viatour.jpg/200px-Sitta_europaea_Luc_Viatour.jpg"></td>
+<td property="soundfile"><a href="sounds/Sitta%20europaea.mp3">Stimme</a></td>
+<td>Sitta europaea</td>
+<td><a href="http://de.wikipedia.org/wiki/Sitta%20europaea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Eiderente</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Somateria_mollissima_male..jpg/200px-Somateria_mollissima_male..jpg"></td>
+<td property="soundfile"><a href="sounds/Somateria%20mollissima.mp3">Stimme</a></td>
+<td>Somateria mollissima</td>
+<td><a href="http://de.wikipedia.org/wiki/Somateria%20mollissima">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Flußseeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Common_tern_with_fish.jpg/200px-Common_tern_with_fish.jpg"></td>
+<td property="soundfile"><a href="sounds/Sterna%20hirundo.mp3">Stimme</a></td>
+<td>Sterna hirundo</td>
+<td><a href="http://de.wikipedia.org/wiki/Sterna%20hirundo">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Küstenseeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Arctic_terns.jpg/200px-Arctic_terns.jpg"></td>
+<td property="soundfile"><a href="sounds/Sterna%20paradisaea.mp3">Stimme</a></td>
+<td>Sterna paradisaea</td>
+<td><a href="http://de.wikipedia.org/wiki/Sterna%20paradisaea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Türkentaube</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Streptopelia_decaocto_-balcony_-two-8.jpg/200px-Streptopelia_decaocto_-balcony_-two-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Streptopelia%20decaocto.mp3">Stimme</a></td>
+<td>Streptopelia decaocto</td>
+<td><a href="http://de.wikipedia.org/wiki/Streptopelia%20decaocto">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Turteltaube</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/European_Turtle_Dove_(Streptopelia_turtur).jpg/200px-European_Turtle_Dove_(Streptopelia_turtur).jpg"></td>
+<td property="soundfile"><a href="sounds/Streptopelia%20turtur.mp3">Stimme</a></td>
+<td>Streptopelia turtur</td>
+<td><a href="http://de.wikipedia.org/wiki/Streptopelia%20turtur">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldkauz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tawny_wiki_edit1.jpg/200px-Tawny_wiki_edit1.jpg"></td>
+<td property="soundfile"><a href="sounds/Strix%20aluco.mp3">Stimme</a></td>
+<td>Strix aluco</td>
+<td><a href="http://de.wikipedia.org/wiki/Strix%20aluco">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Habichtskauz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Strix_uralensis.jpg/200px-Strix_uralensis.jpg"></td>
+<td property="soundfile"><a href="sounds/Strix%20uralensis.mp3">Stimme</a></td>
+<td>Strix uralensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Strix%20uralensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Star</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toulouse_-_Sturnus_vulgaris_-_2012-02-26_-_2.jpg/200px-Toulouse_-_Sturnus_vulgaris_-_2012-02-26_-_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Sturnus%20vulgaris.mp3">Stimme</a></td>
+<td>Sturnus vulgaris</td>
+<td><a href="http://de.wikipedia.org/wiki/Sturnus%20vulgaris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sperbereule</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Surnia-ulula-002.jpg/200px-Surnia-ulula-002.jpg"></td>
+<td property="soundfile"><a href="sounds/Surnia%20ulula.mp3">Stimme</a></td>
+<td>Surnia ulula</td>
+<td><a href="http://de.wikipedia.org/wiki/Surnia%20ulula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wildschwein</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wild_Pig_KSC02pd0873.jpg/200px-Wild_Pig_KSC02pd0873.jpg"></td>
+<td property="soundfile"><a href="sounds/Sus%20scrofa.mp3">Stimme</a></td>
+<td>Sus scrofa</td>
+<td><a href="http://de.wikipedia.org/wiki/Sus%20scrofa">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Mönchsgrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sylvia_atricapilla_male_2.jpg/200px-Sylvia_atricapilla_male_2.jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20atricapilla.mp3">Stimme</a></td>
+<td>Sylvia atricapilla</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20atricapilla">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Gartengrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sylvia_borin_(%C3%96rebro_County).jpg/200px-Sylvia_borin_(%C3%96rebro_County).jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20borin.mp3">Stimme</a></td>
+<td>Sylvia borin</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20borin">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Weißbart-Grasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Subalpine_Warbler,_Sylvia_cantillans.jpg/200px-Subalpine_Warbler,_Sylvia_cantillans.jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20cantillans.mp3">Stimme</a></td>
+<td>Sylvia cantillans</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20cantillans">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Dorngrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flickr_-_Rainbirder_-_Common_Whitethroat_(Sylvia_communis).jpg/200px-Flickr_-_Rainbirder_-_Common_Whitethroat_(Sylvia_communis).jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20communis.mp3">Stimme</a></td>
+<td>Sylvia communis</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20communis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Brillengrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg/200px-Sylvia_conspicillata_Gran_Canaria.jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20conspicillata.mp3">Stimme</a></td>
+<td>Sylvia conspicillata</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20conspicillata">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Klappergrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sylvia_curruca_1_(Martin_Mecnarowski).jpg/200px-Sylvia_curruca_1_(Martin_Mecnarowski).jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20curruca.mp3">Stimme</a></td>
+<td>Sylvia curruca</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20curruca">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Sperbergrasmücke</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sylvia_nisoria.jpg/200px-Sylvia_nisoria.jpg"></td>
+<td property="soundfile"><a href="sounds/Sylvia%20nisoria.mp3">Stimme</a></td>
+<td>Sylvia nisoria</td>
+<td><a href="http://de.wikipedia.org/wiki/Sylvia%20nisoria">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zwergtaucher</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Zwergtaucher_060319_3.jpg/200px-Zwergtaucher_060319_3.jpg"></td>
+<td property="soundfile"><a href="sounds/Tachybaptus%20ruficollis.mp3">Stimme</a></td>
+<td>Tachybaptus ruficollis</td>
+<td><a href="http://de.wikipedia.org/wiki/Tachybaptus%20ruficollis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Alpensegler</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tachymarptis_melba_-Barcelona,_Spain_-flying-8.jpg/200px-Tachymarptis_melba_-Barcelona,_Spain_-flying-8.jpg"></td>
+<td property="soundfile"><a href="sounds/Tachymarptis%20melba.mp3">Stimme</a></td>
+<td>Tachymarptis melba</td>
+<td><a href="http://de.wikipedia.org/wiki/Tachymarptis%20melba">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rostgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_couple_of_Tadorna_ferruginea.jpg/200px-A_couple_of_Tadorna_ferruginea.jpg"></td>
+<td property="soundfile"><a href="sounds/Tadorna%20ferruginea.mp3">Stimme</a></td>
+<td>Tadorna ferruginea</td>
+<td><a href="http://de.wikipedia.org/wiki/Tadorna%20ferruginea">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Brandgans</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Common_Shelduck_(Tadorna_tadorna)_at_Sylvan_Heights.jpg/200px-Common_Shelduck_(Tadorna_tadorna)_at_Sylvan_Heights.jpg"></td>
+<td property="soundfile"><a href="sounds/Tadorna%20tadorna.mp3">Stimme</a></td>
+<td>Tadorna tadorna</td>
+<td><a href="http://de.wikipedia.org/wiki/Tadorna%20tadorna">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Auerhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tetrao_urogallus_Richard_Bartz.jpg/200px-Tetrao_urogallus_Richard_Bartz.jpg"></td>
+<td property="soundfile"><a href="sounds/Tetrao%20urogallus.mp3">Stimme</a></td>
+<td>Tetrao urogallus</td>
+<td><a href="http://de.wikipedia.org/wiki/Tetrao%20urogallus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Haselhuhn</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tetrastes_bonasia.jpg/200px-Tetrastes_bonasia.jpg"></td>
+<td property="soundfile"><a href="sounds/Tetrastes%20bonasia.mp3">Stimme</a></td>
+<td>Tetrastes bonasia</td>
+<td><a href="http://de.wikipedia.org/wiki/Tetrastes%20bonasia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Brandseeschwalbe</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sandwich_Tern_in_Flight.jpg/200px-Sandwich_Tern_in_Flight.jpg"></td>
+<td property="soundfile"><a href="sounds/Thalasseus%20sandvicensis.mp3">Stimme</a></td>
+<td>Thalasseus sandvicensis</td>
+<td><a href="http://de.wikipedia.org/wiki/Thalasseus%20sandvicensis">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Bruchwasserläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wood_Sandpiper_Photograph_By_Shantanu_Kuveskar.jpg/200px-Wood_Sandpiper_Photograph_By_Shantanu_Kuveskar.jpg"></td>
+<td property="soundfile"><a href="sounds/Tringa%20glareola.mp3">Stimme</a></td>
+<td>Tringa glareola</td>
+<td><a href="http://de.wikipedia.org/wiki/Tringa%20glareola">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Grünschenkel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tringa_nebularia_-_Laem_Phak_Bia.jpg/200px-Tringa_nebularia_-_Laem_Phak_Bia.jpg"></td>
+<td property="soundfile"><a href="sounds/Tringa%20nebularia.mp3">Stimme</a></td>
+<td>Tringa nebularia</td>
+<td><a href="http://de.wikipedia.org/wiki/Tringa%20nebularia">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Waldwasserläufer</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Green_Sandpiper_(Tringa_ochropus)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5533.jpg/200px-Green_Sandpiper_(Tringa_ochropus)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5533.jpg"></td>
+<td property="soundfile"><a href="sounds/Tringa%20ochropus.mp3">Stimme</a></td>
+<td>Tringa ochropus</td>
+<td><a href="http://de.wikipedia.org/wiki/Tringa%20ochropus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotschenkel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Common_Redshank_Tringa_totanus.jpg/200px-Common_Redshank_Tringa_totanus.jpg"></td>
+<td property="soundfile"><a href="sounds/Tringa%20totanus.mp3">Stimme</a></td>
+<td>Tringa totanus</td>
+<td><a href="http://de.wikipedia.org/wiki/Tringa%20totanus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Zaunkönig</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eurasian-Wren-Troglodytes-troglodytes.jpg/200px-Eurasian-Wren-Troglodytes-troglodytes.jpg"></td>
+<td property="soundfile"><a href="sounds/Troglodytes%20troglodytes.mp3">Stimme</a></td>
+<td>Troglodytes troglodytes</td>
+<td><a href="http://de.wikipedia.org/wiki/Troglodytes%20troglodytes">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotdrossel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Redwing_Turdus_iliacus.jpg/200px-Redwing_Turdus_iliacus.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20iliacus.mp3">Stimme</a></td>
+<td>Turdus iliacus</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20iliacus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Amsel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/200px-Common_Blackbird.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20merula.mp3">Stimme</a></td>
+<td>Turdus merula</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20merula">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Singdrossel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Song_Thrush_Turdus_philomelos.jpg/200px-Song_Thrush_Turdus_philomelos.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20philomelos.mp3">Stimme</a></td>
+<td>Turdus philomelos</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20philomelos">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wacholderdrossel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Turdus_pilaris2.jpg/200px-Turdus_pilaris2.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20pilaris.mp3">Stimme</a></td>
+<td>Turdus pilaris</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20pilaris">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Ringdrossel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ring_Ouzel.jpg/200px-Ring_Ouzel.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20torquatus.mp3">Stimme</a></td>
+<td>Turdus torquatus</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20torquatus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Misteldrossel</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Turdus_viscivorus_1.jpg/200px-Turdus_viscivorus_1.jpg"></td>
+<td property="soundfile"><a href="sounds/Turdus%20viscivorus.mp3">Stimme</a></td>
+<td>Turdus viscivorus</td>
+<td><a href="http://de.wikipedia.org/wiki/Turdus%20viscivorus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Schleiereule</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tyto_alba_-British_Wildlife_Centre,_Surrey,_England-8a_(1).jpg/200px-Tyto_alba_-British_Wildlife_Centre,_Surrey,_England-8a_(1).jpg"></td>
+<td property="soundfile"><a href="sounds/Tyto%20alba.mp3">Stimme</a></td>
+<td>Tyto alba</td>
+<td><a href="http://de.wikipedia.org/wiki/Tyto%20alba">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Wiedehopf</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Common_Hoopoe_Photograph_By_Shantanu_Kuveskar.jpg/200px-Common_Hoopoe_Photograph_By_Shantanu_Kuveskar.jpg"></td>
+<td property="soundfile"><a href="sounds/Upupa%20epops.mp3">Stimme</a></td>
+<td>Upupa epops</td>
+<td><a href="http://de.wikipedia.org/wiki/Upupa%20epops">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Trottellumme</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/200px-Common_Murre_Uria_aalge.jpg"></td>
+<td property="soundfile"><a href="sounds/Uria%20aalge.mp3">Stimme</a></td>
+<td>Uria aalge</td>
+<td><a href="http://de.wikipedia.org/wiki/Uria%20aalge">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Kiebitz</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Northern_Lapwing_new.jpg/200px-Northern_Lapwing_new.jpg"></td>
+<td property="soundfile"><a href="sounds/Vanellus%20vanellus.mp3">Stimme</a></td>
+<td>Vanellus vanellus</td>
+<td><a href="http://de.wikipedia.org/wiki/Vanellus%20vanellus">Wiki</a></td>
+</tr>
+<tr>
+<td property="name">Rotfuchs</td>
+<td><img property="imagefile" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fox_study_6.jpg/200px-Fox_study_6.jpg"></td>
+<td property="soundfile"><a href="sounds/Vulpes%20vulpes.mp3">Stimme</a></td>
+<td>Vulpes vulpes</td>
+<td><a href="http://de.wikipedia.org/wiki/Vulpes%20vulpes">Wiki</a></td>
+</tr>
+</table></body>
+</html>
+
