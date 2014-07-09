@@ -52,3 +52,7 @@ body {
 #play-again .glyphicon {
   padding: 0 5px;
 }
+
+.row.db {
+  margin-top: 20px;
+}
