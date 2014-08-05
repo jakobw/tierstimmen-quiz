@@ -70,25 +70,39 @@
     Das TierstimmenQuiz wird vom Benutzer im Browser gespielt.
     Ihm werden nacheinander 10 Fragen gestellt, die er zu beantworten hat.
     Zu Beginn jeder Frage wird eine Tierstimme abgespielt. Der Benutzer muss 
-    diese Tierstimme einem von vier vorgeschlagenen Tieren zuordnen.
-    
-\section{Aufbau}
+    diese Tierstimme einem von vier vorgeschlagenen Tieren zuordnen.\\
+    \includegraphics[scale=0.5]{p1}
+    Wenn sich der Benutzer für eine Antwort entschieden hat, wird die Frage aufgelöst.
+    Es wird der Text und ein Bild angezeigt.\\
+    \includegraphics[scale=0.3]{p2}
+\section{Projektaufbau}
         \subsection{Download der Daten}
-        Zunächst luden wir die \href{http://offene-naturfuehrer.de/web/Open_Source_Tierstimmen}{Sounddateien der Tierstimmen} runter und speicherten
-        Metadaten über die Tierstimmen im \texttt{CSV} Format, dies erledigte ein Ruby Skript.
+        Zunächst werden Tierstimmen und Informationen von \href{http://offene-naturfuehrer.de/web/Open_Source_Tierstimmen}{Sounddateien der Tierstimmen} runtergeladen und im \texttt{CSV} Format abgelegt.
         
         \subsection{Anreicherung}
             Da \texttt{SPARQL}-Abfragen an einen Trippel Datastore je nach Komplexität des Querys 
-            lange dauern können, und weil wir uns unabhängig von Serverausfällen dritter machen
-            wollten, entschieden wir uns, unsere Daten zu Beginn mit Informationen
-            aus der deutschen DBPedia anzureichern. Ein Python Skript ließt 
+            lange dauern können, und wir unabhängig von Serverausfällen dritter 
+            sein wollen, werden die Daten zu Beginn mit Informationen
+            aus der deutschen DBPedia angereichert. Ein Python Skript ließt 
             die gegrabbten Daten ein und erstellt eine SPARQL Abfrage, um Daten mit Bildern
             der Tiere und den Wiki Texten anzureichern.
             
        \subsection{Aufbereitung}
-           Zunächst wendeten wir eine XSL Transformation an, um die \texttt{CSV} Daten in
-           ein von uns definiertes XML Schema zu überführen.\\
-           Anschließend mussten wir defekte Datensätze entfernen. Da es zu einigen Tiernamen aus
+           Zunächst wird eine XSL Transformation angewendet, um die \texttt{CSV} Daten in
+           ein definiertes XML Schema zu überführen.\\
+           Anschließend werden defekte Datensätze entfernen. Da es zu einigen Tiernamen aus
            dem Tierstimmenarchiv keinen Wikipediaartikel gibt, existieren zu diesen
            Tieren keine Bilder und keine Wiki Texte.
+           
+       \subsection{Backend}
+           Das Backend basiert auf einem Java Servlet, welches eine Restschnittstelle 
+           besitzt. Das Backend hält einen BaseX-Datenbank, welche
+           die angereicherten Informationen über die Tiere/Tierstimmen
+           beinhaltet. Ein Algorithmus stellt zufällige (Frage-)Datensätze zusammen
+           und stellt diese über die Restschnittstelle zur Verfügung.
+           
+       \subsection{Frontend}
+           Das Frontend läuft auf einem Sinatra Webserver und wurde durch HMTL, Javascript und CSS mittels \texttt{Backbone.js} und \texttt{Bootstrap} gestaltet. Es bezieht mittels AJAX-Request die (Frage)Datensätze über die Restschnittstelle des Backends.
+           Zudem wird eine mit RDFa-Infomationen angereicherte, statisches HTML Dokument
+           zur Verfügung gestellt.
 \end{document}
